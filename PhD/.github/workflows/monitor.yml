@@ -2,10 +2,8 @@ name: PhD Professor Hiring Monitor
 
 on:
   schedule:
-    # Runs daily at 6:00 AM UTC (11:30 AM IST)
     - cron: '0 6 * * *'
   workflow_dispatch:
-    # Also allows manual trigger from GitHub Actions UI
 
 jobs:
   monitor:
@@ -13,65 +11,51 @@ jobs:
     timeout-minutes: 45
 
     steps:
-      # ── Checkout ────────────────────────────────────────────────────────────
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # ── Python setup ────────────────────────────────────────────────────────
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: Cache pip dependencies
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('PhD/phd-monitor/requirements.txt') }}
-          restore-keys: ${{ runner.os }}-pip-
-
       - name: Install Python dependencies
-        run: pip install -r PhD/phd-monitor/requirements.txt
+        working-directory: phd-monitor
+        run: pip install -r requirements.txt
 
       - name: Install Playwright browsers
         run: playwright install chromium --with-deps
 
-      # ── State DB persistence ─────────────────────────────────────────────────
       - name: Restore state database
         uses: actions/cache@v4
         with:
-          path: PhD/phd-monitor/data/state.db
+          path: phd-monitor/data/state.db
           key: state-db-${{ github.run_number }}
-          restore-keys: |
-            state-db-
+          restore-keys: state-db-
 
-      # ── Run the monitor ──────────────────────────────────────────────────────
       - name: Run PhD monitor
-        working-directory: PhD/phd-monitor
+        working-directory: phd-monitor
         env:
-          GMAIL_ADDRESS:       ${{ secrets.GMAIL_ADDRESS }}
-          GMAIL_APP_PASSWORD:  ${{ secrets.GMAIL_APP_PASSWORD }}
-          TELEGRAM_BOT_TOKEN:  ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          TELEGRAM_CHAT_ID:    ${{ secrets.TELEGRAM_CHAT_ID }}
-          OPENAI_API_KEY:      ${{ secrets.OPENAI_API_KEY }}
-          LOG_LEVEL:           INFO
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID:   ${{ secrets.TELEGRAM_CHAT_ID }}
+          GMAIL_ADDRESS:      ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          OPENAI_API_KEY:     ${{ secrets.OPENAI_API_KEY }}
+          LOG_LEVEL:          INFO
         run: python main.py
 
-      # ── Save state DB ────────────────────────────────────────────────────────
-      - name: Save updated state database
+      - name: Save state database
         if: always()
         uses: actions/cache@v4
         with:
-          path: PhD/phd-monitor/data/state.db
+          path: phd-monitor/data/state.db
           key: state-db-${{ github.run_number }}
 
-      # ── Upload logs as artifact ──────────────────────────────────────────────
       - name: Upload alerts log
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: alerts-log-${{ github.run_number }}
-          path: PhD/phd-monitor/data/alerts_log.json
+          path: phd-monitor/data/alerts_log.json
           retention-days: 90
           if-no-files-found: ignore
-

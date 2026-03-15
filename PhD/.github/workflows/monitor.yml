@@ -27,11 +27,11 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('phd-monitor/requirements.txt') }}
+          key: ${{ runner.os }}-pip-${{ hashFiles('PhD/phd-monitor/requirements.txt') }}
           restore-keys: ${{ runner.os }}-pip-
 
       - name: Install Python dependencies
-        run: pip install -r phd-monitor/requirements.txt
+        run: pip install -r PhD/phd-monitor/requirements.txt
 
       - name: Install Playwright browsers
         run: playwright install chromium --with-deps
@@ -40,14 +40,14 @@ jobs:
       - name: Restore state database
         uses: actions/cache@v4
         with:
-          path: phd-monitor/data/state.db
+          path: PhD/phd-monitor/data/state.db
           key: state-db-${{ github.run_number }}
           restore-keys: |
             state-db-
 
       # ── Run the monitor ──────────────────────────────────────────────────────
       - name: Run PhD monitor
-        working-directory: phd-monitor
+        working-directory: PhD/phd-monitor
         env:
           GMAIL_ADDRESS:       ${{ secrets.GMAIL_ADDRESS }}
           GMAIL_APP_PASSWORD:  ${{ secrets.GMAIL_APP_PASSWORD }}
@@ -62,7 +62,7 @@ jobs:
         if: always()
         uses: actions/cache@v4
         with:
-          path: phd-monitor/data/state.db
+          path: PhD/phd-monitor/data/state.db
           key: state-db-${{ github.run_number }}
 
       # ── Upload logs as artifact ──────────────────────────────────────────────
@@ -71,6 +71,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: alerts-log-${{ github.run_number }}
-          path: phd-monitor/data/alerts_log.json
+          path: PhD/phd-monitor/data/alerts_log.json
           retention-days: 90
           if-no-files-found: ignore

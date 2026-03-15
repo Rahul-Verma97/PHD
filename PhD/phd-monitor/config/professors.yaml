@@ -1,0 +1,4843 @@
+professors:
+  # ── Carnegie Mellon University ──────────────────────────────────
+
+  - id: cmu_001
+    name: "Akari Asai"
+    university: "Carnegie Mellon University"
+    department: "School of Computer Science"
+    research_area: "LLMs, Multimodal LMs, RAG, Agentic Systems"
+    website: "https://akariasai.github.io"
+    lab_page: ""
+    twitter_handle: "AkariAsai"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cmu_002
+    name: "Graham Neubig"
+    university: "Carnegie Mellon University"
+    department: "School of Computer Science"
+    research_area: "NLP, LLMs, Code Generation, Multilingual"
+    website: "https://www.phontron.com"
+    lab_page: ""
+    twitter_handle: "gneubig"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cmu_003
+    name: "Niloofar Mireshghallah"
+    university: "Carnegie Mellon University"
+    department: "School of Computer Science"
+    research_area: "LLM Reasoning, NLP Safety, AI for Science"
+    website: "https://mireshghallah.github.io"
+    lab_page: ""
+    twitter_handle: "nmireshg"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cmu_004
+    name: "Virginia Smith"
+    university: "Carnegie Mellon University"
+    department: "School of Computer Science"
+    research_area: "Federated Learning, Distributed ML"
+    website: "https://www.cs.cmu.edu/~smithv/"
+    lab_page: ""
+    twitter_handle: "virginia_smith_"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cmu_005
+    name: "Ruslan Salakhutdinov"
+    university: "Carnegie Mellon University"
+    department: "School of Computer Science"
+    research_area: "Deep Learning, Multimodal AI"
+    website: "https://www.cs.cmu.edu/~rsalakhu/"
+    lab_page: ""
+    twitter_handle: "rsalakhu"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cmu_006
+    name: "Louis-Philippe Morency"
+    university: "Carnegie Mellon University"
+    department: "School of Computer Science"
+    research_area: "Multimodal ML, Speech, Language, Vision"
+    website: "https://www.cs.cmu.edu/~morency/"
+    lab_page: ""
+    twitter_handle: "lpmorency"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cmu_007
+    name: "Daniel Fried"
+    university: "Carnegie Mellon University"
+    department: "School of Computer Science"
+    research_area: "NLP, Code Generation, Agentic AI"
+    website: "https://dpfried.github.io/"
+    lab_page: ""
+    twitter_handle: "dan_fried_"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cmu_008
+    name: "Emma Strubell"
+    university: "Carnegie Mellon University"
+    department: "School of Computer Science"
+    research_area: "Efficient NLP, LLMs, Energy-aware ML"
+    website: "https://strubell.github.io/"
+    lab_page: ""
+    twitter_handle: "strubell"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cmu_009
+    name: "Yonatan Bisk"
+    university: "Carnegie Mellon University"
+    department: "School of Computer Science"
+    research_area: "Multimodal Grounding, Embodied AI, NLP"
+    website: "https://yonatanbisk.com/"
+    lab_page: ""
+    twitter_handle: "yonatanbisk"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cmu_010
+    name: "Maarten Sap"
+    university: "Carnegie Mellon University"
+    department: "School of Computer Science"
+    research_area: "NLP, Social AI, Commonsense Reasoning"
+    website: "https://maartensap.com/"
+    lab_page: ""
+    twitter_handle: "maartensap"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── Stanford University ─────────────────────────────────────────
+
+  - id: stanford_001
+    name: "Percy Liang"
+    university: "Stanford University"
+    department: "Computer Science"
+    research_area: "Foundation Models, LLMs, HELM"
+    website: "https://cs.stanford.edu/~pliang/"
+    lab_page: ""
+    twitter_handle: "percyliang"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: stanford_002
+    name: "Diyi Yang"
+    university: "Stanford University"
+    department: "Computer Science"
+    research_area: "NLP, Computational Social Science"
+    website: "https://cs.stanford.edu/~diyiy/"
+    lab_page: ""
+    twitter_handle: "diyi_yang"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: stanford_003
+    name: "Christopher Manning"
+    university: "Stanford University"
+    department: "Computer Science"
+    research_area: "NLP, LLMs, Linguistics"
+    website: "https://nlp.stanford.edu/~manning/"
+    lab_page: ""
+    twitter_handle: "chrmanning"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: stanford_004
+    name: "Chelsea Finn"
+    university: "Stanford University"
+    department: "Computer Science"
+    research_area: "Meta-Learning, Agentic AI, Robotics"
+    website: "https://ai.stanford.edu/~cbfinn/"
+    lab_page: ""
+    twitter_handle: "chelseabfinn"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: stanford_005
+    name: "Fei-Fei Li"
+    university: "Stanford University"
+    department: "Computer Science"
+    research_area: "Vision, Multimodal AI, Human-Centered AI"
+    website: "https://profiles.stanford.edu/fei-fei-li"
+    lab_page: ""
+    twitter_handle: "drfeifei"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: stanford_006
+    name: "Dan Jurafsky"
+    university: "Stanford University"
+    department: "Computer Science"
+    research_area: "NLP, Speech, Computational Linguistics"
+    website: "https://web.stanford.edu/~jurafsky/"
+    lab_page: ""
+    twitter_handle: "jurafsky"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: stanford_007
+    name: "Tatsu Hashimoto"
+    university: "Stanford University"
+    department: "Computer Science"
+    research_area: "NLP, LLMs, Robustness, Alignment"
+    website: "https://thashim.github.io/"
+    lab_page: ""
+    twitter_handle: "thashim"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: stanford_008
+    name: "Sanmi Koyejo"
+    university: "Stanford University"
+    department: "Computer Science"
+    research_area: "ML Robustness, Fairness, Foundation Models"
+    website: "https://cs.stanford.edu/~sanmi/"
+    lab_page: ""
+    twitter_handle: "SanmiKoyejo"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: stanford_009
+    name: "Will Hamilton"
+    university: "Stanford University"
+    department: "Computer Science"
+    research_area: "Graph ML, Reasoning, LLMs"
+    website: "https://williamleif.github.io/"
+    lab_page: ""
+    twitter_handle: "williamleif"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: stanford_010
+    name: "Azalia Mirhoseini"
+    university: "Stanford University"
+    department: "Computer Science"
+    research_area: "LLM Systems, Chip Design AI, Agentic"
+    website: "https://azaliamirhoseini.github.io/"
+    lab_page: ""
+    twitter_handle: "AzaliaMir"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── UC Berkeley ─────────────────────────────────────────────────
+
+  - id: berkeley_001
+    name: "Dawn Song"
+    university: "UC Berkeley"
+    department: "EECS"
+    research_area: "Agentic AI, LLM Security, Safety"
+    website: "https://dawnsong.io"
+    lab_page: ""
+    twitter_handle: "dawnsongtweets"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: berkeley_002
+    name: "Sewon Min"
+    university: "UC Berkeley"
+    department: "EECS"
+    research_area: "NLP, LLMs, QA"
+    website: "https://www.sewonmin.com"
+    lab_page: ""
+    twitter_handle: "sewon__min"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: berkeley_003
+    name: "Trevor Darrell"
+    university: "UC Berkeley"
+    department: "EECS"
+    research_area: "Multimodal, Vision-Language Models"
+    website: "https://people.eecs.berkeley.edu/~trevor/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: berkeley_004
+    name: "Ion Stoica"
+    university: "UC Berkeley"
+    department: "EECS"
+    research_area: "Distributed Systems, LLM Serving"
+    website: "https://people.eecs.berkeley.edu/~istoica/"
+    lab_page: ""
+    twitter_handle: "istoica_ucb"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: berkeley_005
+    name: "Pieter Abbeel"
+    university: "UC Berkeley"
+    department: "EECS"
+    research_area: "Robot Learning, Agentic AI, RL"
+    website: "https://people.eecs.berkeley.edu/~pabbeel/"
+    lab_page: ""
+    twitter_handle: "pabbeel"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: berkeley_006
+    name: "Sergey Levine"
+    university: "UC Berkeley"
+    department: "EECS"
+    research_area: "Deep RL, Offline RL, Agentic AI"
+    website: "https://people.eecs.berkeley.edu/~svlevine/"
+    lab_page: ""
+    twitter_handle: "svlevine"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: berkeley_007
+    name: "Michael Jordan"
+    university: "UC Berkeley"
+    department: "EECS"
+    research_area: "ML Theory, Bayesian Methods, Statistics"
+    website: "https://people.eecs.berkeley.edu/~jordan/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: berkeley_008
+    name: "Kurt Keutzer"
+    university: "UC Berkeley"
+    department: "EECS"
+    research_area: "Efficient DNN, Multimodal, Systems"
+    website: "https://people.eecs.berkeley.edu/~keutzer/"
+    lab_page: ""
+    twitter_handle: "keutzer"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: berkeley_009
+    name: "Dan Klein"
+    university: "UC Berkeley"
+    department: "EECS"
+    research_area: "NLP, Parsing, LLMs"
+    website: "https://people.eecs.berkeley.edu/~klein/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: berkeley_010
+    name: "Alane Suhr"
+    university: "UC Berkeley"
+    department: "EECS"
+    research_area: "Multimodal NLP, Vision-Language, Grounding"
+    website: "https://alanesuhr.com/"
+    lab_page: ""
+    twitter_handle: "alanesuhr"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── MIT ─────────────────────────────────────────────────────────
+
+  - id: mit_001
+    name: "Jacob Andreas"
+    university: "MIT"
+    department: "CSAIL / EECS"
+    research_area: "NLP, Grounded Language, Agents"
+    website: "https://www.mit.edu/~jda/"
+    lab_page: ""
+    twitter_handle: "jacobandreas"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: mit_002
+    name: "Yoon Kim"
+    university: "MIT"
+    department: "CSAIL / EECS"
+    research_area: "NLP, Language Models, Structured Prediction"
+    website: "https://people.csail.mit.edu/yoonkim/"
+    lab_page: ""
+    twitter_handle: "yoon_kim_nlp"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: mit_003
+    name: "Antonio Torralba"
+    university: "MIT"
+    department: "CSAIL / EECS"
+    research_area: "Computer Vision, Multimodal Learning"
+    website: "https://groups.csail.mit.edu/vision/torralbalab/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: mit_004
+    name: "Aleksander Madry"
+    university: "MIT"
+    department: "CSAIL / EECS"
+    research_area: "ML Robustness, Foundation Models"
+    website: "https://people.csail.mit.edu/madry/"
+    lab_page: ""
+    twitter_handle: "aleks_madry"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: mit_005
+    name: "Hari Balakrishnan"
+    university: "MIT"
+    department: "CSAIL / EECS"
+    research_area: "AI for Networks, Systems"
+    website: "http://nms.lcs.mit.edu/~hari/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: mit_006
+    name: "Stefanie Jegelka"
+    university: "MIT"
+    department: "CSAIL / EECS"
+    research_area: "Graph ML, Combinatorial Optimization"
+    website: "https://people.csail.mit.edu/stefje/"
+    lab_page: ""
+    twitter_handle: "sjegelka"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: mit_007
+    name: "Tommi Jaakkola"
+    university: "MIT"
+    department: "CSAIL / EECS"
+    research_area: "ML, Generative Models, Structured Prediction"
+    website: "https://people.csail.mit.edu/tommi/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: mit_008
+    name: "Regina Barzilay"
+    university: "MIT"
+    department: "CSAIL / EECS"
+    research_area: "NLP, Clinical AI, Drug Discovery"
+    website: "https://people.csail.mit.edu/regina/"
+    lab_page: ""
+    twitter_handle: "ReginaBarzilay"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: mit_009
+    name: "Dina Katabi"
+    university: "MIT"
+    department: "CSAIL / EECS"
+    research_area: "Wireless AI, Healthcare AI, Systems"
+    website: "https://people.csail.mit.edu/dina/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: mit_010
+    name: "Peter Szolovits"
+    university: "MIT"
+    department: "CSAIL / EECS"
+    research_area: "Medical AI, NLP, Clinical Decision Support"
+    website: "https://groups.csail.mit.edu/medg/people/psz/home/Pete_Home.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── University of Washington ────────────────────────────────────
+
+  - id: uw_001
+    name: "Hanna Hajishirzi"
+    university: "University of Washington"
+    department: "Allen School of CS"
+    research_area: "LLMs, NLP, Open Multimodal AI"
+    website: "https://homes.cs.washington.edu/~hannaneh/"
+    lab_page: ""
+    twitter_handle: "HannaHajishirzi"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uw_002
+    name: "Noah Smith"
+    university: "University of Washington"
+    department: "Allen School of CS"
+    research_area: "NLP, Open Multimodal AI (NSF+NVIDIA)"
+    website: "https://nasmith.github.io/"
+    lab_page: ""
+    twitter_handle: "nlpnoah"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uw_003
+    name: "Luke Zettlemoyer"
+    university: "University of Washington"
+    department: "Allen School of CS"
+    research_area: "NLP, LLMs"
+    website: "https://www.cs.washington.edu/people/faculty/lsz"
+    lab_page: ""
+    twitter_handle: "lzettlemoyer"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uw_004
+    name: "Yejin Choi"
+    university: "University of Washington"
+    department: "Allen School of CS"
+    research_area: "Commonsense Reasoning, NLP"
+    website: "https://homes.cs.washington.edu/~yejin/"
+    lab_page: ""
+    twitter_handle: "YejinChoiNLP"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uw_005
+    name: "Ali Farhadi"
+    university: "University of Washington"
+    department: "Allen School of CS"
+    research_area: "Vision, Multimodal, Video"
+    website: "https://homes.cs.washington.edu/~ali/"
+    lab_page: ""
+    twitter_handle: "alifarhadi"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uw_006
+    name: "Ranjay Krishna"
+    university: "University of Washington"
+    department: "Allen School of CS"
+    research_area: "Vision-Language, Multimodal, Grounding"
+    website: "https://ranjaykrishna.com/"
+    lab_page: ""
+    twitter_handle: "ranjay_krishna"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uw_007
+    name: "Pang Wei Koh"
+    university: "University of Washington"
+    department: "Allen School of CS"
+    research_area: "ML Robustness, Foundation Models"
+    website: "https://koh.pw/"
+    lab_page: ""
+    twitter_handle: "pangweitkoh"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uw_008
+    name: "Ludwig Schmidt"
+    university: "University of Washington"
+    department: "Allen School of CS"
+    research_area: "Robust ML, Vision-Language, Datasets"
+    website: "https://people.csail.mit.edu/ludwigs/"
+    lab_page: ""
+    twitter_handle: "ludwigschmidt"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uw_009
+    name: "Dieter Fox"
+    university: "University of Washington"
+    department: "Allen School of CS"
+    research_area: "Robotics, Embodied AI, Vision"
+    website: "https://homes.cs.washington.edu/~fox/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uw_010
+    name: "Emily Bender"
+    university: "University of Washington"
+    department: "Allen School of CS"
+    research_area: "NLP, Linguistic Typology, AI Ethics"
+    website: "https://faculty.washington.edu/ebender/"
+    lab_page: ""
+    twitter_handle: "emilymbender"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── UIUC ────────────────────────────────────────────────────────
+
+  - id: uiuc_001
+    name: "Heng Ji"
+    university: "UIUC"
+    department: "Computer Science"
+    research_area: "Multimodal LLMs, Information Extraction"
+    website: "https://blender.cs.illinois.edu/hengji.html"
+    lab_page: ""
+    twitter_handle: "HengJiNLP"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uiuc_002
+    name: "Fan Lai"
+    university: "UIUC"
+    department: "Computer Science"
+    research_area: "Federated Learning, Edge-Cloud ML"
+    website: "https://www.fanlai.me/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uiuc_003
+    name: "Jim Rehg"
+    university: "UIUC"
+    department: "Computer Science"
+    research_area: "Multimodal Foundation Models, Video"
+    website: "https://rehg.org/"
+    lab_page: ""
+    twitter_handle: "JimRehg"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uiuc_004
+    name: "Julia Hockenmaier"
+    university: "UIUC"
+    department: "Computer Science"
+    research_area: "NLP, Language Grounding"
+    website: "https://juliahmr.cs.illinois.edu/"
+    lab_page: ""
+    twitter_handle: "juliahmr"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uiuc_005
+    name: "ChengXiang Zhai"
+    university: "UIUC"
+    department: "Computer Science"
+    research_area: "Information Retrieval, NLP, LLMs"
+    website: "https://czhai.cs.illinois.edu/"
+    lab_page: ""
+    twitter_handle: "czhai"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uiuc_006
+    name: "Jiawei Han"
+    university: "UIUC"
+    department: "Computer Science"
+    research_area: "Data Mining, Knowledge Graphs, NLP"
+    website: "https://hanj.cs.illinois.edu/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uiuc_007
+    name: "Sanmi Koyejo"
+    university: "UIUC"
+    department: "Computer Science"
+    research_area: "ML Fairness, Robustness, LLMs"
+    website: "https://sanmikoyejo.com/"
+    lab_page: ""
+    twitter_handle: "SanmiKoyejo"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uiuc_008
+    name: "Nan Jiang"
+    university: "UIUC"
+    department: "Computer Science"
+    research_area: "RL, Offline RL, Decision Making"
+    website: "https://nanjiang.cs.illinois.edu/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uiuc_009
+    name: "Bo Li"
+    university: "UIUC"
+    department: "Computer Science"
+    research_area: "Trustworthy ML, LLM Safety, Multimodal"
+    website: "https://aisecure.github.io/"
+    lab_page: ""
+    twitter_handle: "boligislr"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uiuc_010
+    name: "Vikram Adve"
+    university: "UIUC"
+    department: "Computer Science"
+    research_area: "Systems for ML, Compilers, AI Infrastructure"
+    website: "https://vikram.cs.illinois.edu/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Georgia Tech ────────────────────────────────────────────────
+
+  - id: gatech_001
+    name: "Wei Xu"
+    university: "Georgia Tech"
+    department: "College of Computing"
+    research_area: "Multimodal LLMs, NLP Efficiency"
+    website: "https://cocoxu.github.io/"
+    lab_page: ""
+    twitter_handle: "cocoweixu"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: gatech_002
+    name: "Mark Riedl"
+    university: "Georgia Tech"
+    department: "College of Computing"
+    research_area: "NLP, Narrative AI, LLMs"
+    website: "https://eilab.gatech.edu/mark-riedl.html"
+    lab_page: ""
+    twitter_handle: "mark_riedl"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: gatech_003
+    name: "Zsolt Kira"
+    university: "Georgia Tech"
+    department: "College of Computing"
+    research_area: "Vision-Language Models, Multimodal"
+    website: "https://faculty.cc.gatech.edu/~zk15/"
+    lab_page: ""
+    twitter_handle: "ZsoltKira"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: gatech_004
+    name: "Chao Zhang"
+    university: "Georgia Tech"
+    department: "College of Computing"
+    research_area: "NLP, Information Extraction, LLMs"
+    website: "https://chaozhang.org/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: gatech_005
+    name: "Polo Chau"
+    university: "Georgia Tech"
+    department: "College of Computing"
+    research_area: "ML Visualization, Scalable AI, LLMs"
+    website: "https://poloclub.github.io/polochau/"
+    lab_page: ""
+    twitter_handle: "polochau"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: gatech_006
+    name: "Diyi Yang"
+    university: "Georgia Tech"
+    department: "College of Computing"
+    research_area: "NLP, Social Computing (formerly GT)"
+    website: "https://cs.stanford.edu/~diyiy/"
+    lab_page: ""
+    twitter_handle: "diyi_yang"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: gatech_007
+    name: "Le Song"
+    university: "Georgia Tech"
+    department: "College of Computing"
+    research_area: "Graph ML, Deep Learning, Agentic AI"
+    website: "https://www.cc.gatech.edu/~lsong/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: gatech_008
+    name: "Duen Horng Chau"
+    university: "Georgia Tech"
+    department: "College of Computing"
+    research_area: "ML Visualization, Interpretable AI"
+    website: "https://poloclub.github.io/polochau/"
+    lab_page: ""
+    twitter_handle: "polo_chau"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: gatech_009
+    name: "Srinivas Aluru"
+    university: "Georgia Tech"
+    department: "College of Computing"
+    research_area: "Bioinformatics AI, Parallel ML"
+    website: "https://faculty.cc.gatech.edu/~saluru/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: gatech_010
+    name: "Judy Hoffman"
+    university: "Georgia Tech"
+    department: "College of Computing"
+    research_area: "Domain Adaptation, Vision, Multimodal"
+    website: "https://faculty.cc.gatech.edu/~judy/"
+    lab_page: ""
+    twitter_handle: "judyhoffman"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── Cornell University ──────────────────────────────────────────
+
+  - id: cornell_001
+    name: "Yoav Artzi"
+    university: "Cornell University"
+    department: "Computer Science"
+    research_area: "Multimodal NLP, Vision-Language"
+    website: "https://yoavartzi.com/"
+    lab_page: ""
+    twitter_handle: "yoavartzi"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cornell_002
+    name: "Wen Sun"
+    university: "Cornell University"
+    department: "Computer Science"
+    research_area: "RL, Agentic AI, Decision Making"
+    website: "https://wensun.github.io/"
+    lab_page: ""
+    twitter_handle: "wen_sun_ml"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cornell_003
+    name: "Lillian Lee"
+    university: "Cornell University"
+    department: "Computer Science"
+    research_area: "NLP, Computational Social Science"
+    website: "https://www.cs.cornell.edu/home/llee/"
+    lab_page: ""
+    twitter_handle: "lillianlee"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: cornell_004
+    name: "Bharath Hariharan"
+    university: "Cornell University"
+    department: "Computer Science"
+    research_area: "Computer Vision, Multimodal"
+    website: "http://home.bharathh.info/"
+    lab_page: ""
+    twitter_handle: "BharathHarih"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: cornell_005
+    name: "Kilian Weinberger"
+    university: "Cornell University"
+    department: "Computer Science"
+    research_area: "ML, Deep Learning, Efficient Models"
+    website: "https://www.cs.cornell.edu/~kilian/"
+    lab_page: ""
+    twitter_handle: "kilianweinberger"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: cornell_006
+    name: "Alexander Rush"
+    university: "Cornell University"
+    department: "Computer Science"
+    research_area: "NLP, Efficient LLMs"
+    website: "https://rush-nlp.com/"
+    lab_page: ""
+    twitter_handle: "srush_nlp"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cornell_007
+    name: "Thorsten Joachims"
+    university: "Cornell University"
+    department: "Computer Science"
+    research_area: "ML, Ranking, Causal Inference"
+    website: "https://www.cs.cornell.edu/people/tj/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: cornell_008
+    name: "Serge Belongie"
+    university: "Cornell University"
+    department: "Computer Science"
+    research_area: "Computer Vision, Multimodal, Fine-grained"
+    website: "https://blogs.cornell.edu/techfaculty/serge-belongie/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: cornell_009
+    name: "David Mimno"
+    university: "Cornell University"
+    department: "Computer Science"
+    research_area: "NLP, Topic Models, Digital Humanities"
+    website: "https://mimno.infosci.cornell.edu/"
+    lab_page: ""
+    twitter_handle: "dmimno"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: cornell_010
+    name: "Sasha Rush"
+    university: "Cornell University"
+    department: "Computer Science"
+    research_area: "NLP, LLMs, Structured Prediction"
+    website: "https://rush-nlp.com/"
+    lab_page: ""
+    twitter_handle: "srush_nlp"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── University of Michigan ──────────────────────────────────────
+
+  - id: umich_001
+    name: "Joyce Chai"
+    university: "University of Michigan"
+    department: "Computer Science"
+    research_area: "Grounded NLP, Vision-Language, Embodied AI"
+    website: "https://web.eecs.umich.edu/~chaijy/"
+    lab_page: ""
+    twitter_handle: "JoyceChai_NLP"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umich_002
+    name: "Lu Wang"
+    university: "University of Michigan"
+    department: "Computer Science"
+    research_area: "NLP, Summarization, Multimodal"
+    website: "https://web.eecs.umich.edu/~wangluxy/"
+    lab_page: ""
+    twitter_handle: "luwang_nlp"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umich_003
+    name: "Rada Mihalcea"
+    university: "University of Michigan"
+    department: "Computer Science"
+    research_area: "NLP, Multimodal, Human Behavior"
+    website: "https://web.eecs.umich.edu/~mihalcea/"
+    lab_page: ""
+    twitter_handle: "radamihalcea"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umich_004
+    name: "Honglak Lee"
+    university: "University of Michigan"
+    department: "Computer Science"
+    research_area: "Deep Learning, Generative Models"
+    website: "https://web.eecs.umich.edu/~honglak/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umich_005
+    name: "David Jurgens"
+    university: "University of Michigan"
+    department: "Computer Science"
+    research_area: "Computational Social Science, NLP"
+    website: "https://jurgens.people.si.umich.edu/"
+    lab_page: ""
+    twitter_handle: "david_jurgens"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umich_006
+    name: "Jia Deng"
+    university: "University of Michigan"
+    department: "Computer Science"
+    research_area: "Computer Vision, Scene Understanding"
+    website: "https://www.cs.princeton.edu/~jiadeng/"
+    lab_page: ""
+    twitter_handle: "jiadeng_cv"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umich_007
+    name: "Lingjie Liu"
+    university: "University of Michigan"
+    department: "Computer Science"
+    research_area: "3D Vision, Multimodal, Neural Rendering"
+    website: "https://lingjie0206.github.io/"
+    lab_page: ""
+    twitter_handle: "lingjie_liu"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umich_008
+    name: "Nima Mesgarani"
+    university: "University of Michigan"
+    department: "Computer Science"
+    research_area: "Neural AI, Speech, Brain-Computer"
+    website: "https://labrosa.ee.columbia.edu/nima/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umich_009
+    name: "Walter Lasecki"
+    university: "University of Michigan"
+    department: "Computer Science"
+    research_area: "HCI + AI, Crowdsourcing, Agents"
+    website: "https://web.eecs.umich.edu/~wlasecki/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umich_010
+    name: "Nikola Banovic"
+    university: "University of Michigan"
+    department: "Computer Science"
+    research_area: "HCI, AI Behavior, Agentic Systems"
+    website: "https://www.nikolabanovic.net/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Princeton University ────────────────────────────────────────
+
+  - id: princeton_001
+    name: "Danqi Chen"
+    university: "Princeton University"
+    department: "Computer Science"
+    research_area: "LLMs, NLP, In-context Learning"
+    website: "https://www.cs.princeton.edu/~danqic/"
+    lab_page: ""
+    twitter_handle: "danqi_chen"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: princeton_002
+    name: "Karthik Narasimhan"
+    university: "Princeton University"
+    department: "Computer Science"
+    research_area: "NLP, RL, Agentic AI"
+    website: "https://www.cs.princeton.edu/~karthikn/"
+    lab_page: ""
+    twitter_handle: "karthik_r_n"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: princeton_003
+    name: "Sanjeev Arora"
+    university: "Princeton University"
+    department: "Computer Science"
+    research_area: "ML Theory, LLM Understanding"
+    website: "https://www.cs.princeton.edu/~arora/"
+    lab_page: ""
+    twitter_handle: "SanjeevArora"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: princeton_004
+    name: "Tom Griffiths"
+    university: "Princeton University"
+    department: "Computer Science"
+    research_area: "Cognitive AI, Probabilistic Models"
+    website: "https://cocosci.princeton.edu/tom/tom.php"
+    lab_page: ""
+    twitter_handle: "TomLGriffiths"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: princeton_005
+    name: "Elad Hazan"
+    university: "Princeton University"
+    department: "Computer Science"
+    research_area: "Online Learning, ML Optimization"
+    website: "https://www.cs.princeton.edu/~ehazan/"
+    lab_page: ""
+    twitter_handle: "ehazan"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: princeton_006
+    name: "Peter Henderson"
+    university: "Princeton University"
+    department: "Computer Science"
+    research_area: "RL, AI Policy, Responsible AI"
+    website: "https://www.peterhenderson.co/"
+    lab_page: ""
+    twitter_handle: "peterh_ai"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: princeton_007
+    name: "Adji Bousso Dieng"
+    university: "Princeton University"
+    department: "Computer Science"
+    research_area: "Generative Models, Deep Learning, Equity AI"
+    website: "https://adjidieng.github.io/"
+    lab_page: ""
+    twitter_handle: "adjidieng"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: princeton_008
+    name: "Jia Deng"
+    university: "Princeton University"
+    department: "Computer Science"
+    research_area: "Computer Vision, ImageNet, Multimodal"
+    website: "https://www.cs.princeton.edu/~jiadeng/"
+    lab_page: ""
+    twitter_handle: "jiadeng_cv"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: princeton_009
+    name: "Ryan Adams"
+    university: "Princeton University"
+    department: "Computer Science"
+    research_area: "Probabilistic ML, Bayesian Deep Learning"
+    website: "https://people.cs.princeton.edu/~rpa/"
+    lab_page: ""
+    twitter_handle: "ryan_p_adams"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: princeton_010
+    name: "Olga Russakovsky"
+    university: "Princeton University"
+    department: "Computer Science"
+    research_area: "Computer Vision, Fairness in AI"
+    website: "https://www.cs.princeton.edu/~olgarus/"
+    lab_page: ""
+    twitter_handle: "olgarus"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── New York University ─────────────────────────────────────────
+
+  - id: nyu_001
+    name: "He He"
+    university: "New York University"
+    department: "Courant / CS"
+    research_area: "NLP, Robustness, LLMs"
+    website: "https://hhexiy.github.io/"
+    lab_page: ""
+    twitter_handle: "HH_HeSaid"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: nyu_002
+    name: "Sam Bowman"
+    university: "New York University"
+    department: "Courant / CS"
+    research_area: "NLP, LLMs, RLHF, Alignment"
+    website: "https://cims.nyu.edu/~sbowman/"
+    lab_page: ""
+    twitter_handle: "sleepinyourhat"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: nyu_003
+    name: "Kyunghyun Cho"
+    university: "New York University"
+    department: "Courant / CS"
+    research_area: "NLP, Seq2Seq, Multimodal"
+    website: "https://kyunghyuncho.me/"
+    lab_page: ""
+    twitter_handle: "kchonyc"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: nyu_004
+    name: "Joan Bruna"
+    university: "New York University"
+    department: "Courant / CS"
+    research_area: "Deep Learning Theory, Graph NNs"
+    website: "https://cims.nyu.edu/~bruna/"
+    lab_page: ""
+    twitter_handle: "joanbruna"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: nyu_005
+    name: "Lerrel Pinto"
+    university: "New York University"
+    department: "Courant / CS"
+    research_area: "Robotics, Embodied AI, Vision"
+    website: "https://lerrelpinto.com/"
+    lab_page: ""
+    twitter_handle: "lerrelpinto"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: nyu_006
+    name: "Tal Linzen"
+    university: "New York University"
+    department: "Courant / CS"
+    research_area: "NLP, Psycholinguistics, LLMs"
+    website: "https://tallinzen.net/"
+    lab_page: ""
+    twitter_handle: "tallinzen"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: nyu_007
+    name: "Andrew Gordon Wilson"
+    university: "New York University"
+    department: "Courant / CS"
+    research_area: "Bayesian DL, Uncertainty, LLMs"
+    website: "https://cims.nyu.edu/~andrewgw/"
+    lab_page: ""
+    twitter_handle: "andrewgwilson"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: nyu_008
+    name: "Mengye Ren"
+    university: "New York University"
+    department: "Courant / CS"
+    research_area: "Few-shot Learning, Vision, Continual"
+    website: "https://mengyeren.com/"
+    lab_page: ""
+    twitter_handle: "mengye_ren"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: nyu_009
+    name: "Yi Ma"
+    university: "New York University"
+    department: "Courant / CS"
+    research_area: "Computer Vision, 3D Reconstruction, Foundations"
+    website: "https://people.eecs.berkeley.edu/~yima/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: nyu_010
+    name: "Julian Togelius"
+    university: "New York University"
+    department: "Courant / CS"
+    research_area: "AI in Games, Procedural Generation, LLMs"
+    website: "https://julian.togelius.com/"
+    lab_page: ""
+    twitter_handle: "togelius"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Columbia University ─────────────────────────────────────────
+
+  - id: columbia_001
+    name: "Zhou Yu"
+    university: "Columbia University"
+    department: "Computer Science"
+    research_area: "Dialogue Systems, Multimodal NLP"
+    website: "https://www.cs.columbia.edu/~zhouyu/"
+    lab_page: ""
+    twitter_handle: "Zhou_Yu_NLP"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: columbia_002
+    name: "Carl Vondrick"
+    university: "Columbia University"
+    department: "Computer Science"
+    research_area: "Computer Vision, Video, Multimodal"
+    website: "https://www.cs.columbia.edu/~vondrick/"
+    lab_page: ""
+    twitter_handle: "cvondrick"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: columbia_003
+    name: "Smaranda Muresan"
+    university: "Columbia University"
+    department: "Computer Science"
+    research_area: "NLP, Argumentation, LLMs"
+    website: "https://www.cs.columbia.edu/~smara/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: columbia_004
+    name: "Shih-Fu Chang"
+    university: "Columbia University"
+    department: "Computer Science"
+    research_area: "Multimedia, Vision-Language"
+    website: "https://www.ee.columbia.edu/~sfchang/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: columbia_005
+    name: "Julia Hirschberg"
+    university: "Columbia University"
+    department: "Computer Science"
+    research_area: "Speech, NLP, Prosody"
+    website: "https://www.cs.columbia.edu/~julia/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: columbia_006
+    name: "Kathleen McKeown"
+    university: "Columbia University"
+    department: "Computer Science"
+    research_area: "NLP, Summarization, Text Generation"
+    website: "https://www.cs.columbia.edu/~kathy/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: columbia_007
+    name: "Henning Schulzrinne"
+    university: "Columbia University"
+    department: "Computer Science"
+    research_area: "Networks, Multimedia AI"
+    website: "https://www.cs.columbia.edu/~hgs/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: columbia_008
+    name: "Eugene Wu"
+    university: "Columbia University"
+    department: "Computer Science"
+    research_area: "Data Systems, ML Explanations"
+    website: "http://www.cs.columbia.edu/~ewu/"
+    lab_page: ""
+    twitter_handle: "ewu_data"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: columbia_009
+    name: "Augustin Chaintreau"
+    university: "Columbia University"
+    department: "Computer Science"
+    research_area: "Social Networks, Fairness, ML"
+    website: "http://www.cs.columbia.edu/~ac3211/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: columbia_010
+    name: "Tony Jebara"
+    university: "Columbia University"
+    department: "Computer Science"
+    research_area: "ML, Graphical Models, Applications"
+    website: "https://www.cs.columbia.edu/~jebara/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── UT Austin ───────────────────────────────────────────────────
+
+  - id: utaustin_001
+    name: "Elias Stengel-Eskin"
+    university: "UT Austin"
+    department: "Computer Science"
+    research_area: "Agentic AI, Multimodal Grounding, NLP"
+    website: "https://esteng.github.io/"
+    lab_page: ""
+    twitter_handle: "EliasEskin"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: utaustin_002
+    name: "Eunsol Choi"
+    university: "UT Austin"
+    department: "Computer Science"
+    research_area: "NLP, QA, LLMs"
+    website: "https://eunsol.github.io/"
+    lab_page: ""
+    twitter_handle: "eunsol_choi"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: utaustin_003
+    name: "Greg Durrett"
+    university: "UT Austin"
+    department: "Computer Science"
+    research_area: "NLP, Text Generation, LLMs"
+    website: "https://www.cs.utexas.edu/~gdurrett/"
+    lab_page: ""
+    twitter_handle: "gdurrett"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: utaustin_004
+    name: "Swarat Chaudhuri"
+    university: "UT Austin"
+    department: "Computer Science"
+    research_area: "Program Synthesis, Neurosymbolic AI"
+    website: "https://www.cs.utexas.edu/~swarat/"
+    lab_page: ""
+    twitter_handle: "swooc"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: utaustin_005
+    name: "Qiang Liu"
+    university: "UT Austin"
+    department: "Computer Science"
+    research_area: "Probabilistic ML, Deep Learning"
+    website: "https://www.cs.utexas.edu/~lqiang/"
+    lab_page: ""
+    twitter_handle: "QiangLiu_UT"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: utaustin_006
+    name: "Philipp Krähenbühl"
+    university: "UT Austin"
+    department: "Computer Science"
+    research_area: "Computer Vision, Video Understanding"
+    website: "https://www.philkr.net/"
+    lab_page: ""
+    twitter_handle: "philkr"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: utaustin_007
+    name: "Joydeep Biswas"
+    university: "UT Austin"
+    department: "Computer Science"
+    research_area: "Robotics, Agentic AI, Autonomy"
+    website: "https://www.joydeepb.com/"
+    lab_page: ""
+    twitter_handle: "joydeepb"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: utaustin_008
+    name: "Adam Klivans"
+    university: "UT Austin"
+    department: "Computer Science"
+    research_area: "ML Theory, Computational Learning"
+    website: "https://www.cs.utexas.edu/~klivans/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: utaustin_009
+    name: "Scott Niekum"
+    university: "UT Austin"
+    department: "Computer Science"
+    research_area: "RL from Demonstration, Safe RL"
+    website: "https://people.cs.umass.edu/~sniekum/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: utaustin_010
+    name: "Ray Mooney"
+    university: "UT Austin"
+    department: "Computer Science"
+    research_area: "NLP, Grounded Language Learning"
+    website: "https://www.cs.utexas.edu/~mooney/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── UNC Chapel Hill ─────────────────────────────────────────────
+
+  - id: unc_001
+    name: "Mohit Bansal"
+    university: "UNC Chapel Hill"
+    department: "Computer Science"
+    research_area: "Multimodal NLP, Vision-Language, Video"
+    website: "https://www.cs.unc.edu/~mbansal/"
+    lab_page: ""
+    twitter_handle: "mohitban47"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: unc_002
+    name: "Colin Raffel"
+    university: "UNC Chapel Hill"
+    department: "Computer Science"
+    research_area: "LLMs, Transfer Learning, Foundation Models"
+    website: "https://colinraffel.com/"
+    lab_page: ""
+    twitter_handle: "colinraffel"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: unc_003
+    name: "Snigdha Chaturvedi"
+    university: "UNC Chapel Hill"
+    department: "Computer Science"
+    research_area: "NLP, Narrative AI, Discourse"
+    website: "https://www.cs.unc.edu/~snigdhac/"
+    lab_page: ""
+    twitter_handle: "snigdhac"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: unc_004
+    name: "Gedas Bertasius"
+    university: "UNC Chapel Hill"
+    department: "Computer Science"
+    research_area: "Video Understanding, Vision-Language"
+    website: "https://www.gedasbertasius.com/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: unc_005
+    name: "Alexander Rush"
+    university: "UNC Chapel Hill"
+    department: "Computer Science"
+    research_area: "NLP, Efficient LLMs"
+    website: "https://rush-nlp.com/"
+    lab_page: ""
+    twitter_handle: "srush_nlp"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: unc_006
+    name: "Huaxiu Yao"
+    university: "UNC Chapel Hill"
+    department: "Computer Science"
+    research_area: "Meta-Learning, LLMs, Generalization"
+    website: "https://huaxiuyao.mystrikingly.com/"
+    lab_page: ""
+    twitter_handle: "HuaxiuYao"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: unc_007
+    name: "Tianlong Chen"
+    university: "UNC Chapel Hill"
+    department: "Computer Science"
+    research_area: "Efficient LLMs, Sparse Training, Pruning"
+    website: "https://tianlong-chen.github.io/"
+    lab_page: ""
+    twitter_handle: "TianlongChen4"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: unc_008
+    name: "Jaime Fern"
+    university: "UNC Chapel Hill"
+    department: "Computer Science"
+    research_area: "RL, Planning, Agentic Systems"
+    website: "https://web.engr.oregonstate.edu/~afern/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: unc_009
+    name: "Shashank Srivastava"
+    university: "UNC Chapel Hill"
+    department: "Computer Science"
+    research_area: "NLP, Low-resource, Interactive ML"
+    website: "https://www.ssrivastava.com/"
+    lab_page: ""
+    twitter_handle: "shashankssr"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: unc_010
+    name: "Cynthia Rudin"
+    university: "UNC Chapel Hill"
+    department: "Computer Science"
+    research_area: "Interpretable ML, Decision Systems"
+    website: "https://users.cs.duke.edu/~cynthia/"
+    lab_page: ""
+    twitter_handle: "CynthiaRudin"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── UMass Amherst ───────────────────────────────────────────────
+
+  - id: umass_001
+    name: "Mohit Iyyer"
+    university: "UMass Amherst"
+    department: "Computer Science"
+    research_area: "NLP, LLMs, Creative Generation"
+    website: "https://people.cs.umass.edu/~miyyer/"
+    lab_page: ""
+    twitter_handle: "miyyer"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umass_002
+    name: "Andrew McCallum"
+    university: "UMass Amherst"
+    department: "Computer Science"
+    research_area: "Information Extraction, NLP, KG"
+    website: "https://people.cs.umass.edu/~mccallum/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umass_003
+    name: "Hao Peng"
+    university: "UMass Amherst"
+    department: "Computer Science"
+    research_area: "NLP, Efficient LLMs, Reasoning"
+    website: "https://haopeng-nlp.github.io/"
+    lab_page: ""
+    twitter_handle: "haopeng_nlp"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umass_004
+    name: "Brendan O'Connor"
+    university: "UMass Amherst"
+    department: "Computer Science"
+    research_area: "NLP, Social Media"
+    website: "https://brenocon.com/"
+    lab_page: ""
+    twitter_handle: "brendan642"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umass_005
+    name: "Subhransu Maji"
+    university: "UMass Amherst"
+    department: "Computer Science"
+    research_area: "Vision, Multimodal, Fine-grained"
+    website: "https://people.cs.umass.edu/~smaji/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umass_006
+    name: "Hong Yu"
+    university: "UMass Amherst"
+    department: "Computer Science"
+    research_area: "Clinical NLP, Biomedical AI"
+    website: "https://www.uml.edu/Sciences/computer-science/faculty/yu-hong.aspx"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umass_007
+    name: "Yoon Kim"
+    university: "UMass Amherst"
+    department: "Computer Science"
+    research_area: "NLP, Structured Prediction (also MIT)"
+    website: "https://people.csail.mit.edu/yoonkim/"
+    lab_page: ""
+    twitter_handle: "yoon_kim_nlp"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umass_008
+    name: "Jason Knekolus"
+    university: "UMass Amherst"
+    department: "Computer Science"
+    research_area: "Probabilistic ML, Deep Generative"
+    website: "https://people.cs.umass.edu/~jekl/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umass_009
+    name: "Ramesh Sitaraman"
+    university: "UMass Amherst"
+    department: "Computer Science"
+    research_area: "Video Streaming AI, Networks+ML"
+    website: "https://people.cs.umass.edu/~ramesh/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umass_010
+    name: "Erik Learned-Miller"
+    university: "UMass Amherst"
+    department: "Computer Science"
+    research_area: "Computer Vision, Face Recognition"
+    website: "https://people.cs.umass.edu/~elm/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── UC San Diego ────────────────────────────────────────────────
+
+  - id: ucsd_001
+    name: "Julian McAuley"
+    university: "UC San Diego"
+    department: "CSE / HDSI"
+    research_area: "NLP, Recommendation, LLMs"
+    website: "https://cseweb.ucsd.edu/~jmcauley/"
+    lab_page: ""
+    twitter_handle: "juliamcauley"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucsd_002
+    name: "Zhiting Hu"
+    university: "UC San Diego"
+    department: "CSE / HDSI"
+    research_area: "NLP, Generative Models, LLM Alignment"
+    website: "https://zhiting.ucsd.edu/"
+    lab_page: ""
+    twitter_handle: "zhiting_hu"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucsd_003
+    name: "Taylor Berg-Kirkpatrick"
+    university: "UC San Diego"
+    department: "CSE / HDSI"
+    research_area: "NLP, Speech, Document AI"
+    website: "https://cseweb.ucsd.edu/~tberg/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: ucsd_004
+    name: "Pengtao Xie"
+    university: "UC San Diego"
+    department: "CSE / HDSI"
+    research_area: "Federated Learning, Medical AI, LLMs"
+    website: "https://pengtaoxie.github.io/"
+    lab_page: ""
+    twitter_handle: "PengtaoXie"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucsd_005
+    name: "Lianhui Qin"
+    university: "UC San Diego"
+    department: "CSE / HDSI"
+    research_area: "NLP, Reasoning, Multimodal"
+    website: "https://lianhuiqin.github.io/"
+    lab_page: ""
+    twitter_handle: "lianhui_qin"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: ucsd_006
+    name: "Ndapa Nakashole"
+    university: "UC San Diego"
+    department: "CSE / HDSI"
+    research_area: "NLP, Knowledge, Healthcare AI"
+    website: "https://nakashole.com/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: ucsd_007
+    name: "Rose Yu"
+    university: "UC San Diego"
+    department: "CSE / HDSI"
+    research_area: "Time Series, Physics-informed ML"
+    website: "https://roseyu.com/"
+    lab_page: ""
+    twitter_handle: "rosequyu"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucsd_008
+    name: "Sicun Gao"
+    university: "UC San Diego"
+    department: "CSE / HDSI"
+    research_area: "Formal Methods, Agentic AI, Safety"
+    website: "https://scungao.github.io/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: ucsd_009
+    name: "Hao Su"
+    university: "UC San Diego"
+    department: "CSE / HDSI"
+    research_area: "3D Vision, Robotics, Embodied AI"
+    website: "https://cseweb.ucsd.edu/~haosu/"
+    lab_page: ""
+    twitter_handle: "haosucsd"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucsd_010
+    name: "Jingbo Shang"
+    university: "UC San Diego"
+    department: "CSE / HDSI"
+    research_area: "NLP, Text Mining, LLMs"
+    website: "https://shangjingbo1226.github.io/"
+    lab_page: ""
+    twitter_handle: "jingboshang"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── Johns Hopkins University ────────────────────────────────────
+
+  - id: jhu_001
+    name: "Jason Eisner"
+    university: "Johns Hopkins University"
+    department: "CS / CLSP"
+    research_area: "NLP, Probabilistic Models"
+    website: "https://www.cs.jhu.edu/~jason/"
+    lab_page: ""
+    twitter_handle: "jason_eisner"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: jhu_002
+    name: "Mark Dredze"
+    university: "Johns Hopkins University"
+    department: "CS / CLSP"
+    research_area: "NLP, Clinical AI, Social Media"
+    website: "https://www.cs.jhu.edu/~mdredze/"
+    lab_page: ""
+    twitter_handle: "mdredze"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: jhu_003
+    name: "Alan Yuille"
+    university: "Johns Hopkins University"
+    department: "CS / CLSP"
+    research_area: "Vision, Multimodal, Cognitive Models"
+    website: "https://www.cs.jhu.edu/~ayuille/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: jhu_004
+    name: "Benjamin Van Durme"
+    university: "Johns Hopkins University"
+    department: "CS / CLSP"
+    research_area: "NLP, LLMs, Low-resource"
+    website: "https://www.cs.jhu.edu/~vandurme/"
+    lab_page: ""
+    twitter_handle: "bvandurme"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: jhu_005
+    name: "Philipp Koehn"
+    university: "Johns Hopkins University"
+    department: "CS / CLSP"
+    research_area: "NLP, Machine Translation, LLMs"
+    website: "https://www.cs.jhu.edu/~phi/"
+    lab_page: ""
+    twitter_handle: "PhilippKoehn"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: jhu_006
+    name: "Rama Chellappa"
+    university: "Johns Hopkins University"
+    department: "CS / CLSP"
+    research_area: "Computer Vision, Multimodal"
+    website: "https://engineering.jhu.edu/faculty/rama-chellappa/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: jhu_007
+    name: "Raman Arora"
+    university: "Johns Hopkins University"
+    department: "CS / CLSP"
+    research_area: "ML Theory, Representation Learning"
+    website: "https://www.cs.jhu.edu/~raman/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: jhu_008
+    name: "Mathias Unberath"
+    university: "Johns Hopkins University"
+    department: "CS / CLSP"
+    research_area: "Medical AI, Computer Vision"
+    website: "https://mathiasunberath.github.io/"
+    lab_page: ""
+    twitter_handle: "MUnberath"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: jhu_009
+    name: "Kevin Duh"
+    university: "Johns Hopkins University"
+    department: "CS / CLSP"
+    research_area: "NLP, MT, Low-resource LLMs"
+    website: "https://cs.jhu.edu/~kevinduh/"
+    lab_page: ""
+    twitter_handle: "kevinduh"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: jhu_010
+    name: "Sanjeev Khudanpur"
+    university: "Johns Hopkins University"
+    department: "CS / CLSP"
+    research_area: "Speech, NLP, ASR"
+    website: "https://www.clsp.jhu.edu/faculty/sanjeev-khudanpur/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Purdue University ───────────────────────────────────────────
+
+  - id: purdue_001
+    name: "Yexiang Xue"
+    university: "Purdue University"
+    department: "Computer Science"
+    research_area: "ML, Constraint Reasoning, AI Systems"
+    website: "https://www.cs.purdue.edu/homes/yexiang/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: purdue_002
+    name: "Aniket Bera"
+    university: "Purdue University"
+    department: "Computer Science"
+    research_area: "Embodied AI, Human-Robot, Multimodal"
+    website: "https://www.cs.purdue.edu/homes/ab/"
+    lab_page: ""
+    twitter_handle: "aniketbera"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: purdue_003
+    name: "Chunyi Peng"
+    university: "Purdue University"
+    department: "Computer Science"
+    research_area: "Mobile AI, Systems, Networking"
+    website: "https://www.cs.purdue.edu/homes/chunyi/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: purdue_004
+    name: "Saurabh Bagchi"
+    university: "Purdue University"
+    department: "Computer Science"
+    research_area: "Distributed Systems, Reliable AI"
+    website: "https://engineering.purdue.edu/~sbagchi/"
+    lab_page: ""
+    twitter_handle: "SaurabhBagchi"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: purdue_005
+    name: "Xiangyu Zhang"
+    university: "Purdue University"
+    department: "Computer Science"
+    research_area: "Program Analysis, AI for Systems"
+    website: "https://www.cs.purdue.edu/homes/xyzhang/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: purdue_006
+    name: "Vaneet Aggarwal"
+    university: "Purdue University"
+    department: "Computer Science"
+    research_area: "RL, Network AI, Distributed ML"
+    website: "https://web.ics.purdue.edu/~vaneet/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: purdue_007
+    name: "James Davis"
+    university: "Purdue University"
+    department: "Computer Science"
+    research_area: "Computer Vision, 3D Scene Understanding"
+    website: "https://www.cs.purdue.edu/homes/jdavis/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: purdue_008
+    name: "Bharat Bhargava"
+    university: "Purdue University"
+    department: "Computer Science"
+    research_area: "Security, Distributed AI, Privacy"
+    website: "https://www.cs.purdue.edu/homes/bb/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: purdue_009
+    name: "Dongyan Xu"
+    university: "Purdue University"
+    department: "Computer Science"
+    research_area: "NLP, Narrative Understanding, LLMs"
+    website: "https://www.cs.purdue.edu/homes/dxu/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: purdue_010
+    name: "Ming Yin"
+    university: "Purdue University"
+    department: "Computer Science"
+    research_area: "HCI + AI, Decision Making, Fairness"
+    website: "https://www.cs.purdue.edu/homes/mingyin/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Ohio State University ───────────────────────────────────────
+
+  - id: osu_001
+    name: "Yu Su"
+    university: "Ohio State University"
+    department: "Computer Science"
+    research_area: "NLP, Agentic AI, Knowledge Graphs"
+    website: "https://ysu1989.github.io/"
+    lab_page: ""
+    twitter_handle: "yu_su_"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: osu_002
+    name: "Wei-Lun Chao"
+    university: "Ohio State University"
+    department: "Computer Science"
+    research_area: "Vision-Language, Multimodal"
+    website: "https://weilunchao760412.github.io/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: osu_003
+    name: "Huan Sun"
+    university: "Ohio State University"
+    department: "Computer Science"
+    research_area: "NLP, QA, LLMs, Healthcare AI"
+    website: "http://web.cse.ohio-state.edu/~sun.397/"
+    lab_page: ""
+    twitter_handle: "HuanSun_OSU"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: osu_004
+    name: "Srinivasan Parthasarathy"
+    university: "Ohio State University"
+    department: "Computer Science"
+    research_area: "Graph ML, Distributed AI"
+    website: "https://web.cse.ohio-state.edu/~parthasarathy.2/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: osu_005
+    name: "DeLiang Wang"
+    university: "Ohio State University"
+    department: "Computer Science"
+    research_area: "Speech AI, Auditory Scene Analysis"
+    website: "https://u.osu.edu/wanglab/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: osu_006
+    name: "Mikhail Belkin"
+    university: "Ohio State University"
+    department: "Computer Science"
+    research_area: "ML Theory, Kernel Methods"
+    website: "https://mbelkin.github.io/"
+    lab_page: ""
+    twitter_handle: "mbelkin_ml"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: osu_007
+    name: "Tengfei Ma"
+    university: "Ohio State University"
+    department: "Computer Science"
+    research_area: "Graph Neural Nets, Biomedical NLP"
+    website: "https://tengfei-ma.github.io/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: osu_008
+    name: "Rajiv Ramnath"
+    university: "Ohio State University"
+    department: "Computer Science"
+    research_area: "AI Systems, Distributed Computing"
+    website: "https://web.cse.ohio-state.edu/~ramnath.6/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: osu_009
+    name: "Mingjun Zhong"
+    university: "Ohio State University"
+    department: "Computer Science"
+    research_area: "Time Series AI, Healthcare ML"
+    website: "https://research.cs.aalto.fi/bayes/people/zhong/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: osu_010
+    name: "Yingbin Liang"
+    university: "Ohio State University"
+    department: "Computer Science"
+    research_area: "RL Theory, Online Learning, LLM Training"
+    website: "https://ece.osu.edu/people/liang.889"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Northeastern University ─────────────────────────────────────
+
+  - id: northeastern_001
+    name: "Byron Wallace"
+    university: "Northeastern University"
+    department: "Computer Science / Khoury"
+    research_area: "NLP, Healthcare AI, LLMs"
+    website: "https://www.byronwallace.com/"
+    lab_page: ""
+    twitter_handle: "byron_wallace"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: northeastern_002
+    name: "David Smith"
+    university: "Northeastern University"
+    department: "Computer Science / Khoury"
+    research_area: "NLP, Historical Text, LLMs"
+    website: "https://www.ccs.neu.edu/home/dasmith/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: northeastern_003
+    name: "Ehsan Elhamifar"
+    university: "Northeastern University"
+    department: "Computer Science / Khoury"
+    research_area: "Vision, Structured Learning"
+    website: "https://www.khoury.northeastern.edu/people/ehsan-elhamifar/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: northeastern_004
+    name: "Olga Vitek"
+    university: "Northeastern University"
+    department: "Computer Science / Khoury"
+    research_area: "ML for Science, Statistical AI"
+    website: "https://www.khoury.northeastern.edu/people/olga-vitek/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: northeastern_005
+    name: "Stacy Marsella"
+    university: "Northeastern University"
+    department: "Computer Science / Khoury"
+    research_area: "Embodied Agents, Social AI"
+    website: "https://www.khoury.northeastern.edu/people/stacy-marsella/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: northeastern_006
+    name: "Micha Elsner"
+    university: "Northeastern University"
+    department: "Computer Science / Khoury"
+    research_area: "NLP, Discourse, Cognitive Modeling"
+    website: "https://u.osu.edu/elsner.14/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: northeastern_007
+    name: "Sarah Masud Preum"
+    university: "Northeastern University"
+    department: "Computer Science / Khoury"
+    research_area: "Clinical NLP, Healthcare AI"
+    website: "https://www.khoury.northeastern.edu/people/sarah-masud-preum/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: northeastern_008
+    name: "Lu Wang"
+    university: "Northeastern University"
+    department: "Computer Science / Khoury"
+    research_area: "NLP, Summarization (also UMich)"
+    website: "https://web.eecs.umich.edu/~wangluxy/"
+    lab_page: ""
+    twitter_handle: "luwang_nlp"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: northeastern_009
+    name: "Stratis Ioannidis"
+    university: "Northeastern University"
+    department: "Computer Science / Khoury"
+    research_area: "Graph ML, Network Science"
+    website: "https://ioannidis.info/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: northeastern_010
+    name: "Xiangliang Zhang"
+    university: "Northeastern University"
+    department: "Computer Science / Khoury"
+    research_area: "Data Mining, Graph AI, LLMs"
+    website: "https://sites.nd.edu/xiangliang-zhang/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── UCLA ────────────────────────────────────────────────────────
+
+  - id: ucla_001
+    name: "Kai-Wei Chang"
+    university: "UCLA"
+    department: "Computer Science"
+    research_area: "NLP, Fairness, Multilingual LLMs"
+    website: "https://web.cs.ucla.edu/~kwchang/"
+    lab_page: ""
+    twitter_handle: "kaiwei_chang"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucla_002
+    name: "Aditya Grover"
+    university: "UCLA"
+    department: "Computer Science"
+    research_area: "Generative AI, Foundation Models, RL"
+    website: "https://aditya-grover.github.io/"
+    lab_page: ""
+    twitter_handle: "adityagrover_"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucla_003
+    name: "Saadia Gabriel"
+    university: "UCLA"
+    department: "Computer Science"
+    research_area: "Multimodal LLMs, Misinformation AI"
+    website: "https://saadiagabriel.com/"
+    lab_page: ""
+    twitter_handle: "SaadiaGabriel"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucla_004
+    name: "Yizhou Sun"
+    university: "UCLA"
+    department: "Computer Science"
+    research_area: "Graph Neural Nets, Knowledge Graphs"
+    website: "https://web.cs.ucla.edu/~yzsun/"
+    lab_page: ""
+    twitter_handle: "yizhou_sun"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucla_005
+    name: "Bolei Zhou"
+    university: "UCLA"
+    department: "Computer Science"
+    research_area: "Vision, Interpretable AI, Embodied"
+    website: "https://boleizhou.github.io/"
+    lab_page: ""
+    twitter_handle: "bzhou_ai"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucla_006
+    name: "Quanquan Gu"
+    university: "UCLA"
+    department: "Computer Science"
+    research_area: "Deep Learning Theory, LLM Efficiency"
+    website: "https://web.cs.ucla.edu/~qgu/"
+    lab_page: ""
+    twitter_handle: "QuanquanGu"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucla_007
+    name: "Cho-Jui Hsieh"
+    university: "UCLA"
+    department: "Computer Science"
+    research_area: "Efficient ML, LLM Optimization"
+    website: "https://web.cs.ucla.edu/~chohsieh/"
+    lab_page: ""
+    twitter_handle: "chohsieh"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucla_008
+    name: "Nanyun Peng"
+    university: "UCLA"
+    department: "Computer Science"
+    research_area: "NLP, Multilingual LLMs, Creative AI"
+    website: "https://violpeng.github.io/"
+    lab_page: ""
+    twitter_handle: "violpeng"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: ucla_009
+    name: "Guy Van den Broeck"
+    university: "UCLA"
+    department: "Computer Science"
+    research_area: "Neurosymbolic AI, Probabilistic ML"
+    website: "https://web.cs.ucla.edu/~guyvdb/"
+    lab_page: ""
+    twitter_handle: "guyvdb"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: ucla_010
+    name: "Suhas Diggavi"
+    university: "UCLA"
+    department: "Computer Science"
+    research_area: "Information Theory, Federated Learning"
+    website: "https://www.ee.ucla.edu/suhas-diggavi/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── USC ─────────────────────────────────────────────────────────
+
+  - id: usc_001
+    name: "Robin Jia"
+    university: "USC"
+    department: "Thomas Lord CS / ISI"
+    research_area: "NLP, Robustness, Multimodal Benchmarking"
+    website: "https://robinjia.github.io/"
+    lab_page: ""
+    twitter_handle: "robinsjia"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: usc_002
+    name: "Muhao Chen"
+    university: "USC"
+    department: "Thomas Lord CS / ISI"
+    research_area: "LLM Security, Multimodal LMs, Knowledge"
+    website: "https://muhaochen.github.io/"
+    lab_page: ""
+    twitter_handle: "muhaochen"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: usc_003
+    name: "Jieyu Zhao"
+    university: "USC"
+    department: "Thomas Lord CS / ISI"
+    research_area: "NLP Fairness, Ethics, LLMs"
+    website: "https://jyzhao.net/"
+    lab_page: ""
+    twitter_handle: "JieyuZhao_NLP"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: usc_004
+    name: "Yue Zhao"
+    university: "USC"
+    department: "Thomas Lord CS / ISI"
+    research_area: "AI Safety, Agent Systems, Foundation Models"
+    website: "https://viterbi-web.usc.edu/~yzhao010/"
+    lab_page: ""
+    twitter_handle: "yuezhao_usc"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: usc_005
+    name: "Xiang Ren"
+    university: "USC"
+    department: "Thomas Lord CS / ISI"
+    research_area: "NLP, Knowledge, Low-resource LLMs"
+    website: "https://shanzhenren.github.io/"
+    lab_page: ""
+    twitter_handle: "xiangren_nlp"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: usc_006
+    name: "Swabha Swayamdipta"
+    university: "USC"
+    department: "Thomas Lord CS / ISI"
+    research_area: "NLP, Data-centric AI, LLMs"
+    website: "https://swabhs.com/"
+    lab_page: ""
+    twitter_handle: "swabhask"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: usc_007
+    name: "Morteza Dehghani"
+    university: "USC"
+    department: "Thomas Lord CS / ISI"
+    research_area: "Computational Social Science, NLP"
+    website: "https://mortezadehghani.net/"
+    lab_page: ""
+    twitter_handle: "morteza_dehgh"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: usc_008
+    name: "Emilio Ferrara"
+    university: "USC"
+    department: "Thomas Lord CS / ISI"
+    research_area: "Social Networks, Misinformation, LLMs"
+    website: "https://www.emilioferrara.net/"
+    lab_page: ""
+    twitter_handle: "emilio_ferrara"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: usc_009
+    name: "Kristina Lerman"
+    university: "USC"
+    department: "Thomas Lord CS / ISI"
+    research_area: "Social Computing, Graph ML, NLP"
+    website: "https://www.isi.edu/people/lerman/about"
+    lab_page: ""
+    twitter_handle: "KristinaLerman"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: usc_010
+    name: "Aram Galstyan"
+    university: "USC"
+    department: "Thomas Lord CS / ISI"
+    research_area: "Bayesian ML, Probabilistic AI"
+    website: "https://www.isi.edu/people/galstyan/about"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── University of Maryland ──────────────────────────────────────
+
+  - id: umaryland_001
+    name: "Furong Huang"
+    university: "University of Maryland"
+    department: "CS / UMIACS"
+    research_area: "Agentic AI, LLM Safety, Multimodal"
+    website: "https://furong-huang.com/"
+    lab_page: ""
+    twitter_handle: "furongh"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umaryland_002
+    name: "Hal Daume III"
+    university: "University of Maryland"
+    department: "CS / UMIACS"
+    research_area: "NLP, ML, Interactive Learning"
+    website: "https://hal3.name/"
+    lab_page: ""
+    twitter_handle: "haldaume3"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umaryland_003
+    name: "Marine Carpuat"
+    university: "University of Maryland"
+    department: "CS / UMIACS"
+    research_area: "NLP, MT, Multilingual"
+    website: "https://marinecarpuat.weebly.com/"
+    lab_page: ""
+    twitter_handle: "marinecarpuat"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umaryland_004
+    name: "Jordan Boyd-Graber"
+    university: "University of Maryland"
+    department: "CS / UMIACS"
+    research_area: "NLP, QA, Human-AI Interaction"
+    website: "https://users.umiacs.umd.edu/~jbg/"
+    lab_page: ""
+    twitter_handle: "boydgraber"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umaryland_005
+    name: "Abhinav Shrivastava"
+    university: "University of Maryland"
+    department: "CS / UMIACS"
+    research_area: "Computer Vision, Self-supervised Learning"
+    website: "https://abhinav-shrivastava.info/"
+    lab_page: ""
+    twitter_handle: "abhinavsh"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umaryland_006
+    name: "Tom Goldstein"
+    university: "University of Maryland"
+    department: "CS / UMIACS"
+    research_area: "Adversarial ML, LLM Safety, Efficient Models"
+    website: "https://www.cs.umd.edu/~tomg/"
+    lab_page: ""
+    twitter_handle: "tomgoldstein"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umaryland_007
+    name: "Ramani Duraiswami"
+    university: "University of Maryland"
+    department: "CS / UMIACS"
+    research_area: "Audio AI, 3D Vision"
+    website: "https://www.umiacs.umd.edu/~ramani/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umaryland_008
+    name: "Dinesh Manocha"
+    university: "University of Maryland"
+    department: "CS / UMIACS"
+    research_area: "Vision, Robotics, Multimodal"
+    website: "https://www.cs.umd.edu/~dm/"
+    lab_page: ""
+    twitter_handle: "dmanocha"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umaryland_009
+    name: "Soheil Feizi"
+    university: "University of Maryland"
+    department: "CS / UMIACS"
+    research_area: "Generative Models, Robust AI, LLMs"
+    website: "https://www.cs.umd.edu/~sfeizi/"
+    lab_page: ""
+    twitter_handle: "soheilfeizi"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umaryland_010
+    name: "Rachel Rudinger"
+    university: "University of Maryland"
+    department: "CS / UMIACS"
+    research_area: "NLP, Commonsense Reasoning, LLMs"
+    website: "https://rudinger.github.io/"
+    lab_page: ""
+    twitter_handle: "rudinger"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── Yale University ─────────────────────────────────────────────
+
+  - id: yale_001
+    name: "Arman Cohan"
+    university: "Yale University"
+    department: "Computer Science"
+    research_area: "NLP, LLMs, Retrieval, Scientific AI"
+    website: "https://armancohan.com/"
+    lab_page: ""
+    twitter_handle: "armancohan"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: yale_002
+    name: "Tao Yu"
+    university: "Yale University"
+    department: "Computer Science"
+    research_area: "NLP, Text-to-SQL, LLM Agents"
+    website: "https://taoyds.github.io/"
+    lab_page: ""
+    twitter_handle: "taoyds"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: yale_003
+    name: "Rex Ying"
+    university: "Yale University"
+    department: "Computer Science"
+    research_area: "Graph ML, Multimodal, Explainability"
+    website: "https://cs.yale.edu/homes/ying-rex/"
+    lab_page: ""
+    twitter_handle: "rexying_"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: yale_004
+    name: "Alex Wong"
+    university: "Yale University"
+    department: "Computer Science"
+    research_area: "Computer Vision, Depth Estimation"
+    website: "https://vision.cs.yale.edu/members/alex-wong.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: yale_005
+    name: "Smita Krishnaswamy"
+    university: "Yale University"
+    department: "Computer Science"
+    research_area: "Graph ML, Biological AI"
+    website: "https://krishnaswamylab.org/"
+    lab_page: ""
+    twitter_handle: "SmitaKrishna"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: yale_006
+    name: "Dragomir Radev"
+    university: "Yale University"
+    department: "Computer Science"
+    research_area: "NLP, Summarization, LLMs"
+    website: "https://cpsc.yale.edu/people/dragomir-radev"
+    lab_page: ""
+    twitter_handle: "radev"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: yale_007
+    name: "Holly Rushmeier"
+    university: "Yale University"
+    department: "Computer Science"
+    research_area: "Graphics AI, 3D Vision"
+    website: "https://graphics.cs.yale.edu/people/holly-rushmeier"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: yale_008
+    name: "Theodore Perkins"
+    university: "Yale University"
+    department: "Computer Science"
+    research_area: "Computational Biology, ML"
+    website: "https://www.ohri.ca/profiles/perkins.asp"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: yale_009
+    name: "Amin Karbasi"
+    university: "Yale University"
+    department: "Computer Science"
+    research_area: "ML Theory, Online Learning, Submodular"
+    website: "https://karbasi.github.io/"
+    lab_page: ""
+    twitter_handle: "aminkarbasi"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: yale_010
+    name: "John Lafferty"
+    university: "Yale University"
+    department: "Computer Science"
+    research_area: "Statistical ML, NLP Theory"
+    website: "https://statistics.yale.edu/people/john-lafferty"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Brown University ────────────────────────────────────────────
+
+  - id: brown_001
+    name: "Chen Sun"
+    university: "Brown University"
+    department: "Computer Science"
+    research_area: "Vision-Language, Multimodal, Video"
+    website: "https://chensun.me/"
+    lab_page: ""
+    twitter_handle: "chensun_"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: brown_002
+    name: "Ellie Pavlick"
+    university: "Brown University"
+    department: "Computer Science"
+    research_area: "NLP, Meaning Representations, LLMs"
+    website: "https://cs.brown.edu/people/epavlick/"
+    lab_page: ""
+    twitter_handle: "epavlick"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: brown_003
+    name: "Stefanie Tellex"
+    university: "Brown University"
+    department: "Computer Science"
+    research_area: "Robotics, Grounded NLP, HRI"
+    website: "https://cs.brown.edu/people/stellex/"
+    lab_page: ""
+    twitter_handle: "StefanieTellex"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: brown_004
+    name: "Michael Littman"
+    university: "Brown University"
+    department: "Computer Science"
+    research_area: "RL, Decision Making, HRI"
+    website: "https://cs.brown.edu/~mlittman/"
+    lab_page: ""
+    twitter_handle: "mlittman"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: brown_005
+    name: "Carsten Eickhoff"
+    university: "Brown University"
+    department: "Computer Science"
+    research_area: "Clinical NLP, Healthcare AI, IR"
+    website: "https://cs.brown.edu/people/carsten/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: brown_006
+    name: "Eugene Charniak"
+    university: "Brown University"
+    department: "Computer Science"
+    research_area: "NLP, Statistical Parsing"
+    website: "https://cs.brown.edu/people/echarnia/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: brown_007
+    name: "George Konidaris"
+    university: "Brown University"
+    department: "Computer Science"
+    research_area: "RL, Skill Learning, Agentic AI"
+    website: "https://cs.brown.edu/people/gdk/"
+    lab_page: ""
+    twitter_handle: "george_k_"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: brown_008
+    name: "Srinath Sridhar"
+    university: "Brown University"
+    department: "Computer Science"
+    research_area: "3D Vision, Embodied AI, Multimodal"
+    website: "https://cs.brown.edu/people/ssrinath/"
+    lab_page: ""
+    twitter_handle: "srinath_sridhar"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: brown_009
+    name: "James Tompkin"
+    university: "Brown University"
+    department: "Computer Science"
+    research_area: "Rendering, Vision, Generative AI"
+    website: "https://jamestompkin.com/"
+    lab_page: ""
+    twitter_handle: "jamestompkin"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: brown_010
+    name: "Ritambhara Singh"
+    university: "Brown University"
+    department: "Computer Science"
+    research_area: "Genomics AI, Multimodal Bio ML"
+    website: "https://ritambharasingh.com/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Duke University ─────────────────────────────────────────────
+
+  - id: duke_001
+    name: "Cynthia Rudin"
+    university: "Duke University"
+    department: "Computer Science"
+    research_area: "Interpretable ML, Decision Systems"
+    website: "https://users.cs.duke.edu/~cynthia/"
+    lab_page: ""
+    twitter_handle: "CynthiaRudin"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: duke_002
+    name: "Lawrence Carin"
+    university: "Duke University"
+    department: "Computer Science"
+    research_area: "Generative AI, Multimodal, Healthcare"
+    website: "https://ece.duke.edu/faculty/lawrence-carin"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: duke_003
+    name: "Rong Ge"
+    university: "Duke University"
+    department: "Computer Science"
+    research_area: "ML Theory, Deep Learning Optimization"
+    website: "https://users.cs.duke.edu/~rongge/"
+    lab_page: ""
+    twitter_handle: "rongge_ml"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: duke_004
+    name: "Helen Li"
+    university: "Duke University"
+    department: "Computer Science"
+    research_area: "Efficient AI, Hardware-aware ML"
+    website: "https://ece.duke.edu/faculty/helen-li"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: duke_005
+    name: "Carlo Tomasi"
+    university: "Duke University"
+    department: "Computer Science"
+    research_area: "Computer Vision, 3D Reconstruction"
+    website: "https://users.cs.duke.edu/~tomasi/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: duke_006
+    name: "Bhuwan Dhingra"
+    university: "Duke University"
+    department: "Computer Science"
+    research_area: "NLP, LLMs, QA, Knowledge"
+    website: "https://www.cs.cmu.edu/~bdhingra/"
+    lab_page: ""
+    twitter_handle: "bhuwandhingra"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: duke_007
+    name: "Yiran Chen"
+    university: "Duke University"
+    department: "Computer Science"
+    research_area: "Efficient DNN, Hardware AI"
+    website: "https://ece.duke.edu/faculty/yiran-chen"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: duke_008
+    name: "Guillermo Sapiro"
+    university: "Duke University"
+    department: "Computer Science"
+    research_area: "Vision, Medical Imaging, Fairness"
+    website: "https://ece.duke.edu/faculty/guillermo-sapiro"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: duke_009
+    name: "Katherine Heller"
+    university: "Duke University"
+    department: "Computer Science"
+    research_area: "Bayesian ML, Healthcare AI"
+    website: "https://users.cs.duke.edu/~kheller/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: duke_010
+    name: "Alexander Volfovsky"
+    university: "Duke University"
+    department: "Computer Science"
+    research_area: "Causal ML, Social Networks"
+    website: "https://volfovsky.github.io/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Rice University ─────────────────────────────────────────────
+
+  - id: rice_001
+    name: "Ang Chen"
+    university: "Rice University"
+    department: "Computer Science"
+    research_area: "Systems for ML, Distributed AI"
+    website: "https://www.cs.rice.edu/~angchen/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: rice_002
+    name: "Vicente Ordóñez"
+    university: "Rice University"
+    department: "Computer Science"
+    research_area: "Vision-Language, Multimodal, Bias"
+    website: "https://www.vicenteordonez.com/"
+    lab_page: ""
+    twitter_handle: "vordotordot"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: rice_003
+    name: "Xia Hu"
+    university: "Rice University"
+    department: "Computer Science"
+    research_area: "Data Mining, Graph AI, LLMs"
+    website: "https://cs.rice.edu/~xh37/"
+    lab_page: ""
+    twitter_handle: "xinhua_hu"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: rice_004
+    name: "Anshumali Shrivastava"
+    university: "Rice University"
+    department: "Computer Science"
+    research_area: "Efficient ML, Hashing for LLMs"
+    website: "https://www.cs.rice.edu/~as143/"
+    lab_page: ""
+    twitter_handle: "theanshuman"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: rice_005
+    name: "Moshe Vardi"
+    university: "Rice University"
+    department: "Computer Science"
+    research_area: "Logic, Formal Verification, AI Safety"
+    website: "https://www.cs.rice.edu/~vardi/"
+    lab_page: ""
+    twitter_handle: "moshevardi"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: rice_006
+    name: "Lydia Kavraki"
+    university: "Rice University"
+    department: "Computer Science"
+    research_area: "Robotics, Motion Planning, Bio AI"
+    website: "https://www.cs.rice.edu/~kavraki/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: rice_007
+    name: "Christopher Jermaine"
+    university: "Rice University"
+    department: "Computer Science"
+    research_area: "ML Systems, Distributed Learning"
+    website: "https://www.cs.rice.edu/~cmj4/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: rice_008
+    name: "Luay Nakhleh"
+    university: "Rice University"
+    department: "Computer Science"
+    research_area: "Bioinformatics, Phylogenetic AI"
+    website: "https://www.cs.rice.edu/~nakhleh/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: rice_009
+    name: "Devika Subramanian"
+    university: "Rice University"
+    department: "Computer Science"
+    research_area: "AI Planning, Knowledge Representation"
+    website: "https://www.cs.rice.edu/~devika/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: rice_010
+    name: "T. S. Eugene Ng"
+    university: "Rice University"
+    department: "Computer Science"
+    research_area: "Network AI, Systems ML"
+    website: "https://www.cs.rice.edu/~eugeneng/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Stony Brook University ──────────────────────────────────────
+
+  - id: stonybrook_001
+    name: "Jiawei Zhou"
+    university: "Stony Brook University"
+    department: "Computer Science"
+    research_area: "NLP, LLMs, Efficiency, Multimodal"
+    website: "https://joezhouai.com/"
+    lab_page: ""
+    twitter_handle: "JoewenZhou"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: stonybrook_002
+    name: "Niranjan Balasubramanian"
+    university: "Stony Brook University"
+    department: "Computer Science"
+    research_area: "NLP, Reasoning, QA"
+    website: "https://www3.cs.stonybrook.edu/~niranjan/"
+    lab_page: ""
+    twitter_handle: "niran_b"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: stonybrook_003
+    name: "Andrew Schwartz"
+    university: "Stony Brook University"
+    department: "Computer Science"
+    research_area: "NLP, Social Media, Mental Health AI"
+    website: "https://scholar.lib.vt.edu/ejournals/JTE/jte-v10n2/schwartz.html"
+    lab_page: ""
+    twitter_handle: "hadaraen"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: stonybrook_004
+    name: "Steven Skiena"
+    university: "Stony Brook University"
+    department: "Computer Science"
+    research_area: "Data Science, NLP, Networks"
+    website: "https://www3.cs.stonybrook.edu/~skiena/"
+    lab_page: ""
+    twitter_handle: "StevenSkiena"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: stonybrook_005
+    name: "IV Ramakrishnan"
+    university: "Stony Brook University"
+    department: "Computer Science"
+    research_area: "Accessibility AI, Multimodal"
+    website: "https://www3.cs.stonybrook.edu/~ram/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: stonybrook_006
+    name: "Minh Hoai"
+    university: "Stony Brook University"
+    department: "Computer Science"
+    research_area: "Computer Vision, Video, Action"
+    website: "https://www3.cs.stonybrook.edu/~minhhoai/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: stonybrook_007
+    name: "Dimitris Samaras"
+    university: "Stony Brook University"
+    department: "Computer Science"
+    research_area: "Vision, Generative AI, Medical Imaging"
+    website: "https://www3.cs.stonybrook.edu/~samaras/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: stonybrook_008
+    name: "Leman Akoglu"
+    university: "Stony Brook University"
+    department: "Computer Science"
+    research_area: "Graph ML, Anomaly Detection"
+    website: "https://www.andrew.cmu.edu/user/lakoglu/"
+    lab_page: ""
+    twitter_handle: "lemanakoglu"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: stonybrook_009
+    name: "Francesco Orabona"
+    university: "Stony Brook University"
+    department: "Computer Science"
+    research_area: "Online Learning, Optimization Theory"
+    website: "https://francesco.orabona.com/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: stonybrook_010
+    name: "Shubham Tulsiani"
+    university: "Stony Brook University"
+    department: "Computer Science"
+    research_area: "3D Vision, Embodied AI, Multimodal"
+    website: "https://shubhtuls.github.io/"
+    lab_page: ""
+    twitter_handle: "shubhtuls"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── University of Virginia ──────────────────────────────────────
+
+  - id: virginia_001
+    name: "Yangfeng Ji"
+    university: "University of Virginia"
+    department: "CS / Engineering"
+    research_area: "NLP, Discourse, LLMs"
+    website: "https://yangfengji.net/"
+    lab_page: ""
+    twitter_handle: "yangfengji"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: virginia_002
+    name: "Yen-Ling Kuo"
+    university: "University of Virginia"
+    department: "CS / Engineering"
+    research_area: "Grounded NLP, Robotics, Multimodal"
+    website: "https://yen-ling-kuo.github.io/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: virginia_003
+    name: "Brad Campbell"
+    university: "University of Virginia"
+    department: "CS / Engineering"
+    research_area: "Edge AI, Systems for ML"
+    website: "https://www.cs.virginia.edu/~bjc8c/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: virginia_004
+    name: "Vicente Ordóñez-Román"
+    university: "University of Virginia"
+    department: "CS / Engineering"
+    research_area: "Vision-Language, Bias AI"
+    website: "https://www.vicenteordonez.com/"
+    lab_page: ""
+    twitter_handle: "vordotordot"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: virginia_005
+    name: "Yanjun Qi"
+    university: "University of Virginia"
+    department: "CS / Engineering"
+    research_area: "NLP, Security + ML, Adversarial"
+    website: "https://qiyanjun.github.io/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: virginia_006
+    name: "Hongning Wang"
+    university: "University of Virginia"
+    department: "CS / Engineering"
+    research_area: "IR, Recommendation, LLMs"
+    website: "https://www.cs.virginia.edu/~hw5x/"
+    lab_page: ""
+    twitter_handle: "hongningwang"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: virginia_007
+    name: "Felix Xiaozhu Lin"
+    university: "University of Virginia"
+    department: "CS / Engineering"
+    research_area: "Mobile AI, Systems for ML"
+    website: "https://www.cs.virginia.edu/~lufeng/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: virginia_008
+    name: "Tom Fletcher"
+    university: "University of Virginia"
+    department: "CS / Engineering"
+    research_area: "Medical Imaging AI, Statistical ML"
+    website: "https://engineering.virginia.edu/faculty/tom-fletcher"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: virginia_009
+    name: "Nada Amin"
+    university: "University of Virginia"
+    department: "CS / Engineering"
+    research_area: "PL + AI, Neurosymbolic, Program Synthesis"
+    website: "https://namin.seas.harvard.edu/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: virginia_010
+    name: "Zanele Munyikwa"
+    university: "University of Virginia"
+    department: "CS / Engineering"
+    research_area: "Human-AI Decision Making, Fairness"
+    website: "https://www.zanelemunyikwa.com/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Penn State University ───────────────────────────────────────
+
+  - id: psu_001
+    name: "Rui Zhang"
+    university: "Penn State University"
+    department: "CS / IST"
+    research_area: "NLP, LLM Agents, AI for Science"
+    website: "https://ryanzhumich.github.io/"
+    lab_page: ""
+    twitter_handle: "ryanzhumich"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: psu_002
+    name: "Shomir Wilson"
+    university: "Penn State University"
+    department: "CS / IST"
+    research_area: "NLP, Privacy, Legal AI"
+    website: "https://shomir.net/"
+    lab_page: ""
+    twitter_handle: "shomir"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: psu_003
+    name: "Dongwon Lee"
+    university: "Penn State University"
+    department: "CS / IST"
+    research_area: "Misinformation, NLP, Knowledge Graphs"
+    website: "https://pike.psu.edu/dongwon/"
+    lab_page: ""
+    twitter_handle: "dongwonlee"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: psu_004
+    name: "Wang Chien Lee"
+    university: "Penn State University"
+    department: "CS / IST"
+    research_area: "Spatial AI, Mobile Computing"
+    website: "https://www.cse.psu.edu/~wlee/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: psu_005
+    name: "Rebecca Passonneau"
+    university: "Penn State University"
+    department: "CS / IST"
+    research_area: "NLP, Educational AI, Discourse"
+    website: "https://www.cse.psu.edu/~rjp49/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: psu_006
+    name: "James Wang"
+    university: "Penn State University"
+    department: "CS / IST"
+    research_area: "Multimedia AI, Vision-Language"
+    website: "https://www.ist.psu.edu/faculty/jwang/index.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: psu_007
+    name: "Soundar Kumara"
+    university: "Penn State University"
+    department: "CS / IST"
+    research_area: "Manufacturing AI, Graph ML"
+    website: "https://www.ie.psu.edu/people/faculty/kumara.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: psu_008
+    name: "C. Lee Giles"
+    university: "Penn State University"
+    department: "CS / IST"
+    research_area: "Information Retrieval, AI for Science"
+    website: "https://clgiles.ist.psu.edu/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: psu_009
+    name: "Heng Huang"
+    university: "Penn State University"
+    department: "CS / IST"
+    research_area: "Federated Learning, Efficient Deep Learning"
+    website: "https://www.pitt.edu/~heh45/"
+    lab_page: ""
+    twitter_handle: "HengHuang_AI"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: psu_010
+    name: "Suhang Wang"
+    university: "Penn State University"
+    department: "CS / IST"
+    research_area: "Graph ML, Recommendation, Fairness"
+    website: "https://suhangwang.ist.psu.edu/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── University of Minnesota ─────────────────────────────────────
+
+  - id: uminn_001
+    name: "Dongyeop Kang"
+    university: "University of Minnesota"
+    department: "CS / ECE"
+    research_area: "NLP, Creative Writing AI, LLMs"
+    website: "https://dykang.github.io/"
+    lab_page: ""
+    twitter_handle: "dykang_"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uminn_002
+    name: "Ju Sun"
+    university: "University of Minnesota"
+    department: "CS / ECE"
+    research_area: "Medical AI, Robust ML"
+    website: "https://sunju.org/"
+    lab_page: ""
+    twitter_handle: "sunjupurdue"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uminn_003
+    name: "Sheng Li"
+    university: "University of Minnesota"
+    department: "CS / ECE"
+    research_area: "Graph ML, Transfer Learning, Fairness"
+    website: "https://sheng-li.org/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uminn_004
+    name: "Evan Suma Rosenberg"
+    university: "University of Minnesota"
+    department: "CS / ECE"
+    research_area: "XR + AI, Embodied Agents"
+    website: "https://illusioneering.cs.umn.edu/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uminn_005
+    name: "Vipin Kumar"
+    university: "University of Minnesota"
+    department: "CS / ECE"
+    research_area: "Data Mining, Climate AI"
+    website: "https://www-users.cse.umn.edu/~kumar001/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uminn_006
+    name: "Stacy Marsella"
+    university: "University of Minnesota"
+    department: "CS / ECE"
+    research_area: "Embodied Agents, Social AI"
+    website: "https://www.khoury.northeastern.edu/people/stacy-marsella/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uminn_007
+    name: "George Karypis"
+    university: "University of Minnesota"
+    department: "CS / ECE"
+    research_area: "Graph ML, Recommendation, LLMs"
+    website: "https://cs.umn.edu/people/faculty/karypis"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uminn_008
+    name: "Loren Terveen"
+    university: "University of Minnesota"
+    department: "CS / ECE"
+    research_area: "HCI + AI, Recommendation"
+    website: "https://www-users.cse.umn.edu/~terveen/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uminn_009
+    name: "Jaideep Srivastava"
+    university: "University of Minnesota"
+    department: "CS / ECE"
+    research_area: "Data Mining, Behavior AI"
+    website: "https://www-users.cse.umn.edu/~srivasta/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uminn_010
+    name: "Arindam Banerjee"
+    university: "University of Minnesota"
+    department: "CS / ECE"
+    research_area: "ML Theory, Statistical Learning"
+    website: "https://www-users.cse.umn.edu/~banerjee/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── University of Wisconsin-Madison ─────────────────────────────
+
+  - id: uwisconsin_001
+    name: "Xiaojin Zhu"
+    university: "University of Wisconsin-Madison"
+    department: "CS / ECE"
+    research_area: "ML, Semi-supervised, LLM Theory"
+    website: "https://pages.cs.wisc.edu/~jerryzhu/"
+    lab_page: ""
+    twitter_handle: "jerryzhumadison"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uwisconsin_002
+    name: "Fred Sala"
+    university: "University of Wisconsin-Madison"
+    department: "CS / ECE"
+    research_area: "Foundation Models, Weak Supervision"
+    website: "https://pages.cs.wisc.edu/~fredsala/"
+    lab_page: ""
+    twitter_handle: "fredsala"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uwisconsin_003
+    name: "Shivaram Venkataraman"
+    university: "University of Wisconsin-Madison"
+    department: "CS / ECE"
+    research_area: "Systems for ML, Distributed Training"
+    website: "https://shivaram.org/"
+    lab_page: ""
+    twitter_handle: "shivaramv"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uwisconsin_004
+    name: "Yudong Chen"
+    university: "University of Wisconsin-Madison"
+    department: "CS / ECE"
+    research_area: "Optimization, RL Theory"
+    website: "https://people.ece.cornell.edu/yudonchen/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uwisconsin_005
+    name: "Stephen Wright"
+    university: "University of Wisconsin-Madison"
+    department: "CS / ECE"
+    research_area: "Optimization for ML"
+    website: "https://pages.cs.wisc.edu/~swright/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uwisconsin_006
+    name: "Jerry Zhu"
+    university: "University of Wisconsin-Madison"
+    department: "CS / ECE"
+    research_area: "Semi-supervised ML, Adversarial NLP"
+    website: "https://pages.cs.wisc.edu/~jerryzhu/"
+    lab_page: ""
+    twitter_handle: "jerryzhumadison"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: uwisconsin_007
+    name: "Somesh Jha"
+    university: "University of Wisconsin-Madison"
+    department: "CS / ECE"
+    research_area: "ML Security, Program Analysis"
+    website: "https://pages.cs.wisc.edu/~jha/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uwisconsin_008
+    name: "Remzi Arpaci-Dusseau"
+    university: "University of Wisconsin-Madison"
+    department: "CS / ECE"
+    research_area: "Systems AI, Storage ML"
+    website: "https://pages.cs.wisc.edu/~remzi/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uwisconsin_009
+    name: "Loris D'Antoni"
+    university: "University of Wisconsin-Madison"
+    department: "CS / ECE"
+    research_area: "Program Synthesis, Neurosymbolic AI"
+    website: "https://pages.cs.wisc.edu/~loris/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: uwisconsin_010
+    name: "Sharon Li"
+    university: "University of Wisconsin-Madison"
+    department: "CS / ECE"
+    research_area: "Trustworthy ML, OOD Detection, LLMs"
+    website: "https://pages.cs.wisc.edu/~sharonli/"
+    lab_page: ""
+    twitter_handle: "sharonl_wisc"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── Texas A&M University ────────────────────────────────────────
+
+  - id: tamu_001
+    name: "Ruihong Huang"
+    university: "Texas A&M University"
+    department: "CS / ECE"
+    research_area: "NLP, Event Detection, LLMs"
+    website: "https://people.engr.tamu.edu/huangrh/index.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: tamu_002
+    name: "Xia Ning"
+    university: "Texas A&M University"
+    department: "CS / ECE"
+    research_area: "Healthcare AI, Drug Discovery"
+    website: "https://engineering.osu.edu/people/ning.104"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: tamu_003
+    name: "Bobak Mortazavi"
+    university: "Texas A&M University"
+    department: "CS / ECE"
+    research_area: "Healthcare AI, Wearable ML"
+    website: "https://people.engr.tamu.edu/bobakm/index.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: tamu_004
+    name: "Tianbao Yang"
+    university: "Texas A&M University"
+    department: "CS / ECE"
+    research_area: "Optimization for ML, Efficient LLMs"
+    website: "https://people.engr.tamu.edu/tianbao-yang/index.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: tamu_005
+    name: "Dylan Shell"
+    university: "Texas A&M University"
+    department: "CS / ECE"
+    research_area: "Robotics, Multi-agent, Planning"
+    website: "https://people.engr.tamu.edu/dshell/index.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: tamu_006
+    name: "Ricardo Gutierrez-Osuna"
+    university: "Texas A&M University"
+    department: "CS / ECE"
+    research_area: "Speech AI, Affective Computing"
+    website: "https://people.engr.tamu.edu/rgutier/index.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: tamu_007
+    name: "Anxiao Jiang"
+    university: "Texas A&M University"
+    department: "CS / ECE"
+    research_area: "Information Theory + ML, Coding"
+    website: "https://engineering.tamu.edu/cse/profiles/jiang-anxiao.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: tamu_008
+    name: "Nitesh Chawla"
+    university: "Texas A&M University"
+    department: "CS / ECE"
+    research_area: "Graph ML, Imbalanced Learning"
+    website: "https://www3.nd.edu/~nchawla/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: tamu_009
+    name: "Rui Chen"
+    university: "Texas A&M University"
+    department: "CS / ECE"
+    research_area: "Recommendation AI, Privacy ML"
+    website: "https://people.engr.tamu.edu/ruichen/index.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: tamu_010
+    name: "Theodora Chaspari"
+    university: "Texas A&M University"
+    department: "CS / ECE"
+    research_area: "Speech + Affect, Healthcare AI"
+    website: "https://people.engr.tamu.edu/chaspari/index.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── UT Dallas ───────────────────────────────────────────────────
+
+  - id: utdallas_001
+    name: "Vincent Ng"
+    university: "UT Dallas"
+    department: "CS / Engineering"
+    research_area: "NLP, Coreference, LLMs"
+    website: "https://www.hlt.utdallas.edu/~vince/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: utdallas_002
+    name: "Latifur Khan"
+    university: "UT Dallas"
+    department: "CS / Engineering"
+    research_area: "NLP, Knowledge Graphs, Security AI"
+    website: "https://cs.utdallas.edu/people/faculty/khan-latifur/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: utdallas_003
+    name: "Yang Liu"
+    university: "UT Dallas"
+    department: "CS / Engineering"
+    research_area: "NLP, Dialogue, LLMs"
+    website: "https://www.hlt.utdallas.edu/~yangl/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: utdallas_004
+    name: "Jey Han Lau"
+    university: "UT Dallas"
+    department: "CS / Engineering"
+    research_area: "NLP, Creative AI, LLMs"
+    website: "https://jeyhan.my/"
+    lab_page: ""
+    twitter_handle: "jeyhan_lau"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: utdallas_005
+    name: "Vibhav Gogate"
+    university: "UT Dallas"
+    department: "CS / Engineering"
+    research_area: "Probabilistic AI, Neurosymbolic"
+    website: "https://personal.utdallas.edu/~vibhav.gogate/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: utdallas_006
+    name: "Shiyang Li"
+    university: "UT Dallas"
+    department: "CS / Engineering"
+    research_area: "NLP, LLMs, Document Understanding"
+    website: "https://shiyangli.me/"
+    lab_page: ""
+    twitter_handle: "shiyang_li_nlp"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: utdallas_007
+    name: "Haim Schweitzer"
+    university: "UT Dallas"
+    department: "CS / Engineering"
+    research_area: "ML Theory, Approximation Algorithms"
+    website: "https://personal.utdallas.edu/~haim/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: utdallas_008
+    name: "Venu Govindaraju"
+    university: "UT Dallas"
+    department: "CS / Engineering"
+    research_area: "Document AI, Multimodal, Biometrics"
+    website: "https://cedar.buffalo.edu/~govind/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: utdallas_009
+    name: "Alvaro Cárdenas"
+    university: "UT Dallas"
+    department: "CS / Engineering"
+    research_area: "AI Security, Cyber-Physical AI"
+    website: "https://simba.cs.ucsc.edu/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: utdallas_010
+    name: "Sriraam Natarajan"
+    university: "UT Dallas"
+    department: "CS / Engineering"
+    research_area: "Statistical Relational AI, Healthcare"
+    website: "https://personal.utdallas.edu/~sriraam.natarajan/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Virginia Tech ───────────────────────────────────────────────
+
+  - id: virginia_tech_001
+    name: "Chang-Tien Lu"
+    university: "Virginia Tech"
+    department: "CS / ECE"
+    research_area: "Spatial AI, NLP, Graph ML"
+    website: "https://people.cs.vt.edu/~ctlu/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: virginia_tech_002
+    name: "Bert Huang"
+    university: "Virginia Tech"
+    department: "CS / ECE"
+    research_area: "Graph ML, Structured Prediction"
+    website: "https://berthuang.com/"
+    lab_page: ""
+    twitter_handle: "berthuang"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: virginia_tech_003
+    name: "Dawei Zhou"
+    university: "Virginia Tech"
+    department: "CS / ECE"
+    research_area: "Graph Neural Nets, Social AI"
+    website: "https://dawei-zhou.github.io/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: virginia_tech_004
+    name: "Ismini Lourentzou"
+    university: "Virginia Tech"
+    department: "CS / ECE"
+    research_area: "Multimodal Learning, Vision-Language"
+    website: "https://isminoula.github.io/"
+    lab_page: ""
+    twitter_handle: "isminoula"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: virginia_tech_005
+    name: "Lifu Huang"
+    university: "Virginia Tech"
+    department: "CS / ECE"
+    research_area: "NLP, Event AI, LLMs"
+    website: "https://wilburone.github.io/"
+    lab_page: ""
+    twitter_handle: "lifu_huang"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: virginia_tech_006
+    name: "Anush Krishnan"
+    university: "Virginia Tech"
+    department: "CS / ECE"
+    research_area: "Physics-informed ML, Scientific AI"
+    website: "https://engineering.virginia.edu/faculty/anush-krishnan"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: virginia_tech_007
+    name: "Liqing Zhang"
+    university: "Virginia Tech"
+    department: "CS / ECE"
+    research_area: "Vision, Attention Models, Brain AI"
+    website: "https://bcmi.sjtu.edu.cn/~zhangliqing/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: virginia_tech_008
+    name: "Bijan Ranjbar-Sahraei"
+    university: "Virginia Tech"
+    department: "CS / ECE"
+    research_area: "Multi-agent RL, Agentic AI"
+    website: "https://bijan-ranjbar-sahraei.github.io/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: virginia_tech_009
+    name: "Krista Breithaupt"
+    university: "Virginia Tech"
+    department: "CS / ECE"
+    research_area: "HCI + AI, Design Intelligence"
+    website: "https://liberalarts.vt.edu/departments-and-schools/department-of-science-technology-and-society.html"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: virginia_tech_010
+    name: "Zheng Zhang"
+    university: "Virginia Tech"
+    department: "CS / ECE"
+    research_area: "ML Systems, Distributed Training"
+    website: "https://zheng-zhang.github.io/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── Rutgers University ──────────────────────────────────────────
+
+  - id: rutgers_001
+    name: "Dong Xu"
+    university: "Rutgers University"
+    department: "CS / DIMACS"
+    research_area: "Bioinformatics AI, Multimodal Bio"
+    website: "https://bioinformatics.rutgers.edu/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: rutgers_002
+    name: "Abdeslam Boularias"
+    university: "Rutgers University"
+    department: "CS / DIMACS"
+    research_area: "Robotics, Grounded AI, Physics ML"
+    website: "https://www.cs.rutgers.edu/~ab1544/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: rutgers_003
+    name: "Yongfeng Zhang"
+    university: "Rutgers University"
+    department: "CS / DIMACS"
+    research_area: "Explainable AI, LLMs, Recommendation"
+    website: "https://www.yongfeng.me/"
+    lab_page: ""
+    twitter_handle: "yongfeng_zhang"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: rutgers_004
+    name: "Gerard de Melo"
+    university: "Rutgers University"
+    department: "CS / DIMACS"
+    research_area: "NLP, Knowledge Graphs, Multimodal"
+    website: "https://gerard.demelo.org/"
+    lab_page: ""
+    twitter_handle: "gerarddm"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: rutgers_005
+    name: "Karl Stratos"
+    university: "Rutgers University"
+    department: "CS / DIMACS"
+    research_area: "NLP, Structured Prediction, LLMs"
+    website: "https://karlstratos.com/"
+    lab_page: ""
+    twitter_handle: "karlstratos"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: rutgers_006
+    name: "Matthew Stone"
+    university: "Rutgers University"
+    department: "CS / DIMACS"
+    research_area: "NLP, Dialogue, Grounded Language"
+    website: "https://www.cs.rutgers.edu/~mdstone/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: rutgers_007
+    name: "Mridul Aanjaneya"
+    university: "Rutgers University"
+    department: "CS / DIMACS"
+    research_area: "Physics ML, Scientific Simulation"
+    website: "https://www.cs.rutgers.edu/~ma2326/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: rutgers_008
+    name: "Jingjin Yu"
+    university: "Rutgers University"
+    department: "CS / DIMACS"
+    research_area: "Robotics AI, Motion Planning"
+    website: "https://www.cs.rutgers.edu/~yjy/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: rutgers_009
+    name: "Shiqing Ma"
+    university: "Rutgers University"
+    department: "CS / DIMACS"
+    research_area: "Security + ML, LLM Backdoor"
+    website: "https://people.cs.umass.edu/~shiqingma/"
+    lab_page: ""
+    twitter_handle: "shiqingma_"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: rutgers_010
+    name: "Yanzhi Wang"
+    university: "Rutgers University"
+    department: "CS / DIMACS"
+    research_area: "Efficient DNN, Hardware-aware AI"
+    website: "https://web.northeastern.edu/yanzhiwang/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+  # ── UMass Lowell / Notre Dame ───────────────────────────────────
+
+  - id: umass_lowell_001
+    name: "Heng Huang"
+    university: "UMass Lowell / Notre Dame"
+    department: "CS"
+    research_area: "Federated Learning, Efficient DL"
+    website: "https://www.pitt.edu/~heh45/"
+    lab_page: ""
+    twitter_handle: "HengHuang_AI"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umass_lowell_002
+    name: "Dong Nguyen"
+    university: "UMass Lowell / Notre Dame"
+    department: "CS"
+    research_area: "NLP, Computational Social Science"
+    website: "https://www.dongnguyen.nl/"
+    lab_page: ""
+    twitter_handle: "DongNguyen_NLP"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umass_lowell_003
+    name: "David Chiang"
+    university: "UMass Lowell / Notre Dame"
+    department: "CS"
+    research_area: "NLP, MT, LLMs"
+    website: "https://www3.nd.edu/~dchiang/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umass_lowell_004
+    name: "Tim Weninger"
+    university: "UMass Lowell / Notre Dame"
+    department: "CS"
+    research_area: "Graph AI, Web Mining, Knowledge"
+    website: "https://timweninger.com/"
+    lab_page: ""
+    twitter_handle: "timweninger"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umass_lowell_005
+    name: "Walter Chang"
+    university: "UMass Lowell / Notre Dame"
+    department: "CS"
+    research_area: "NLP, Semantic Parsing, LLMs"
+    website: "https://walterdogsled.github.io/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umass_lowell_006
+    name: "Collin Lynch"
+    university: "UMass Lowell / Notre Dame"
+    department: "CS"
+    research_area: "Educational AI, Intelligent Tutoring"
+    website: "https://www.csc.ncsu.edu/people/cflynch"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umass_lowell_007
+    name: "Scott Niekum"
+    university: "UMass Lowell / Notre Dame"
+    department: "CS"
+    research_area: "RL from Demonstration, Safe RL"
+    website: "https://cs.utexas.edu/~sniekum/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: umass_lowell_008
+    name: "Xin Eric Wang"
+    university: "UMass Lowell / Notre Dame"
+    department: "CS"
+    research_area: "Multimodal AI, Embodied Agents"
+    website: "https://eric-xw.github.io/"
+    lab_page: ""
+    twitter_handle: "ericxwang_ai"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umass_lowell_009
+    name: "Saujas Vaduguru"
+    university: "UMass Lowell / Notre Dame"
+    department: "CS"
+    research_area: "LLM Agents, Code AI, Agentic"
+    website: "https://saujasv.github.io/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: umass_lowell_010
+    name: "Prithviraj Ammanabrolu"
+    university: "UMass Lowell / Notre Dame"
+    department: "CS"
+    research_area: "Agentic AI, NLP, RL for Language"
+    website: "https://prithvirajva.com/"
+    lab_page: ""
+    twitter_handle: "prithvirajva"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+  # ── University at Buffalo (SUNY) ────────────────────────────────
+
+  - id: buffalo_001
+    name: "Paulus Mau Latu"
+    university: "University at Buffalo (SUNY)"
+    department: "CS / EE"
+    research_area: "NLP, LLMs, Low-resource"
+    website: "https://cse.buffalo.edu/~jcorso/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: buffalo_002
+    name: "Jason Corso"
+    university: "University at Buffalo (SUNY)"
+    department: "CS / EE"
+    research_area: "Video AI, Embodied Grounding"
+    website: "https://cse.buffalo.edu/~jcorso/"
+    lab_page: ""
+    twitter_handle: "jasoncorso"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: buffalo_003
+    name: "Sargur Srihari"
+    university: "University at Buffalo (SUNY)"
+    department: "CS / EE"
+    research_area: "Document AI, Handwriting, LLMs"
+    website: "https://cedar.buffalo.edu/~srihari/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: buffalo_004
+    name: "Rohini Srihari"
+    university: "University at Buffalo (SUNY)"
+    department: "CS / EE"
+    research_area: "Multimodal NLP, Information Extraction"
+    website: "https://cedar.buffalo.edu/~rohini/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: buffalo_005
+    name: "Bina Ramamurthy"
+    university: "University at Buffalo (SUNY)"
+    department: "CS / EE"
+    research_area: "Blockchain AI, Federated Learning"
+    website: "https://cse.buffalo.edu/~bina/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: buffalo_006
+    name: "Varun Chandola"
+    university: "University at Buffalo (SUNY)"
+    department: "CS / EE"
+    research_area: "Anomaly Detection, Time Series AI"
+    website: "https://cse.buffalo.edu/~chandola/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: buffalo_007
+    name: "Hung Ngo"
+    university: "University at Buffalo (SUNY)"
+    department: "CS / EE"
+    research_area: "DB + ML, Query Optimization"
+    website: "https://cse.buffalo.edu/~hungngo/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: buffalo_008
+    name: "Kenneth Regan"
+    university: "University at Buffalo (SUNY)"
+    department: "CS / EE"
+    research_area: "Chess AI, Game Theory, Fairness"
+    website: "https://cse.buffalo.edu/~regan/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: buffalo_009
+    name: "Karthik Dantu"
+    university: "University at Buffalo (SUNY)"
+    department: "CS / EE"
+    research_area: "Robot Perception, Edge AI"
+    website: "https://cse.buffalo.edu/~kdantu/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: buffalo_010
+    name: "Russ Miller"
+    university: "University at Buffalo (SUNY)"
+    department: "CS / EE"
+    research_area: "Parallel ML, HPC for AI"
+    website: "https://cse.buffalo.edu/~miller/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  # ── University of Pittsburgh ────────────────────────────────────────────────
+
+  - id: pitt_001
+    name: "Heng Huang"
+    university: "University of Pittsburgh"
+    department: "CS / ECE"
+    research_area: "Federated Learning, Efficient Deep Learning"
+    website: "https://www.pitt.edu/~heh45/"
+    lab_page: ""
+    twitter_handle: "HengHuang_AI"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: pitt_002
+    name: "Milos Hauskrecht"
+    university: "University of Pittsburgh"
+    department: "CS"
+    research_area: "Clinical AI, Bayesian ML, Healthcare NLP"
+    website: "https://people.cs.pitt.edu/~milos/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: pitt_003
+    name: "Diane Litman"
+    university: "University of Pittsburgh"
+    department: "CS / LRDC"
+    research_area: "NLP, Educational AI, Dialogue"
+    website: "https://people.cs.pitt.edu/~litman/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: pitt_004
+    name: "Alan W Black"
+    university: "University of Pittsburgh"
+    department: "LTI (joint CMU)"
+    research_area: "Speech AI, TTS, Multilingual NLP"
+    website: "https://www.cs.cmu.edu/~awb/"
+    lab_page: ""
+    twitter_handle: "alan_w_black"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: pitt_005
+    name: "Ziv Bar-Joseph"
+    university: "University of Pittsburgh"
+    department: "CS / Computational Biology"
+    research_area: "Biological AI, Graph ML, Time Series"
+    website: "https://www.cs.cmu.edu/~zivbj/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: pitt_006
+    name: "Bhiksha Raj"
+    university: "University of Pittsburgh"
+    department: "ECE / CS (joint CMU)"
+    research_area: "Speech AI, Audio ML, Privacy"
+    website: "https://www.cs.cmu.edu/~bhiksha/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: pitt_007
+    name: "Alexandros Labrinidis"
+    university: "University of Pittsburgh"
+    department: "CS"
+    research_area: "Data Systems, Streaming ML"
+    website: "https://people.cs.pitt.edu/~labrinid/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: pitt_008
+    name: "Konstantinos Pelechrinis"
+    university: "University of Pittsburgh"
+    department: "Information Science"
+    research_area: "Sports Analytics AI, Network Science"
+    website: "https://people.sis.pitt.edu/~kpele/"
+    lab_page: ""
+    twitter_handle: "kPelechrinis"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: pitt_009
+    name: "Daniel Mosse"
+    university: "University of Pittsburgh"
+    department: "CS"
+    research_area: "AI Systems, Embedded ML, Scheduling"
+    website: "https://people.cs.pitt.edu/~mosse/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: pitt_010
+    name: "Yu-Ru Lin"
+    university: "University of Pittsburgh"
+    department: "Information Science"
+    research_area: "Computational Social Science, Network AI"
+    website: "https://people.sis.pitt.edu/~yurulin/"
+    lab_page: ""
+    twitter_handle: "yurulin"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  # ── University of Colorado Boulder ──────────────────────────────────────────
+
+  - id: cuboulder_001
+    name: "Martha Palmer"
+    university: "University of Colorado Boulder"
+    department: "Linguistics / CS"
+    research_area: "NLP, Semantic Parsing, LLMs"
+    website: "https://www.colorado.edu/faculty/palmer-martha"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: cuboulder_002
+    name: "Chenhao Tan"
+    university: "University of Colorado Boulder"
+    department: "CS / Data Science"
+    research_area: "NLP, Human-AI Interaction, LLMs"
+    website: "https://chenhaot.com/"
+    lab_page: ""
+    twitter_handle: "chenhao_tan"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cuboulder_003
+    name: "Jordan Boyd-Graber"
+    university: "University of Colorado Boulder"
+    department: "CS (also UMD)"
+    research_area: "NLP, QA, Human-AI Interaction"
+    website: "https://users.umiacs.umd.edu/~jbg/"
+    lab_page: ""
+    twitter_handle: "boydgraber"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cuboulder_004
+    name: "Katharina Kann"
+    university: "University of Colorado Boulder"
+    department: "CS / Linguistics"
+    research_area: "Multilingual NLP, Low-resource, Morphology"
+    website: "https://www.colorado.edu/cs/katharina-kann"
+    lab_page: ""
+    twitter_handle: "katharina_kann"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: high
+
+  - id: cuboulder_005
+    name: "Jim Martin"
+    university: "University of Colorado Boulder"
+    department: "CS / Linguistics"
+    research_area: "NLP, Dialogue, Discourse"
+    website: "https://www.colorado.edu/faculty/martin-james"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: cuboulder_006
+    name: "Dirk Grunwald"
+    university: "University of Colorado Boulder"
+    department: "CS"
+    research_area: "Systems for AI, Mobile Computing"
+    website: "https://www.colorado.edu/cs/dirk-grunwald"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: cuboulder_007
+    name: "Daniel Larremore"
+    university: "University of Colorado Boulder"
+    department: "BioFrontiers / CS"
+    research_area: "Network AI, Biological ML"
+    website: "https://larremorelab.github.io/"
+    lab_page: ""
+    twitter_handle: "danlarremore"
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: cuboulder_008
+    name: "Ashok Goel"
+    university: "University of Colorado Boulder"
+    department: "CS / Cognitive Science"
+    research_area: "AI for Education, Knowledge-based AI"
+    website: "https://dilab.gatech.edu/ashok-k-goel/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: cuboulder_009
+    name: "Lijun Chen"
+    university: "University of Colorado Boulder"
+    department: "CS"
+    research_area: "Network AI, Distributed ML, Optimization"
+    website: "https://spot.colorado.edu/~lich1539/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
+
+  - id: cuboulder_010
+    name: "Qin Lv"
+    university: "University of Colorado Boulder"
+    department: "CS"
+    research_area: "Recommendation AI, Mobile ML"
+    website: "https://www.cs.colorado.edu/~lv/"
+    lab_page: ""
+    twitter_handle: ""
+    linkedin_url: ""
+    google_alert_rss: ""
+    priority: medium
